@@ -1,75 +1,5 @@
 ---
 
-- title: IAAI
-  fullname: AAAI Conference on Innovative Applications of Artificial Intelligence
-  year: 2020
-  id: iaai20
-  link: https://aaai.org/Conferences/AAAI-20/iaai-20-call/
-  date: Feburary 9-11, 2020
-  deadline: '2019-09-05 23:59:59'
-  timezone: America/Los_Angeles
-  place: New York, New York
-  sub: AI
-
-- title: HRI
-  hindex: 40
-  year: 2020
-  id: hri20
-  link: https://humanrobotinteraction.org/2020/
-  deadline: '2019-10-01 23:59:59'
-  timezone: America/Los_Angeles
-  date: March 23-26, 2020
-  place: Cambridge, UK
-  sub: RO
-
-- title: ECAI
-  fullname: European Conference on Artificial Intelligence
-  year: 2020
-  id: ecai20
-  link: http://ecai2020.eu/
-  rank: 159
-  date: June 8-12, 2020
-  deadline: '2019-11-15 23:59:00'
-  timezone: UTC-12
-  place: Santiago de Compostela, Spain
-  sub: AI
-
-- title: NFM
-  fullname: NASA Formal Methods Symposium
-  year: 2020
-  id: nfm20
-  link: https://ti.arc.nasa.gov/events/nfm-2020/
-  date: May 11-15, 2020
-  abstract_deadline: '2019-12-24 23:59:59'
-  deadline: '2019-12-30 23:59:59'
-  timezone: UTC-12
-  place: NASA Ames, Moffett Field, California
-  sub: VV
-
-- title: OpML
-  fullname: USENIX Conference on Operational Machine Learning
-  year: 2020
-  id: opml20
-  link: https://www.usenix.org/conference/opml20
-  date: May 1, 2020
-  deadline: '2020-02-25 17:00:00'
-  timezone: America/Los_Angeles
-  place: Santa Clara, California
-  sub: AI
-
-- title: DASC
-  fullname: AIAA/IEEE Digital Avionics Systems Conference
-  year: 2021
-  id: dasc21
-  link: https://2021.dasconline.org/
-  date: September 28-30, 2021
-  abstract_deadline: '2020-03-19 23:59:59'
-  deadline: '2020-05-14 23:59:59'
-  timezone: America/Los_Angeles
-  place: San Antonio, Texas
-  sub: AA
-  note: Final paper due July 16 if no editorial review is requested
-
 - title: CoRL
   fullname: Conference on Robot Learning
   year: 2020
@@ -122,18 +52,6 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
     <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
 
-- title: ICAART
-  fullname: International Conference on Agents and Artificial Intelligence
-  year: 2021
-  id: icaart21
-  link: http://www.icaart.org/
-  deadline: '2020-10-06 23:59:59'
-  timezone: America/Los_Angeles
-  date: Feburary 4-6, 2021
-  place: Virtual
-  sub: AI
-  note: Doctoral consortium
-
 - title: AAMAS
   fullname: International Conference on Autonomous Agents and Multi-Agent Systems
   hindex: 25
@@ -148,31 +66,6 @@
   sub: ML, AI
   note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 02, 2020. More info <a href=''https://aamas2021.soton.ac.uk/calls/papers/''>here</a>.'
 
-- title: AISTATS
-  hindex: 52
-  year: 2021
-  id: aistats21
-  link: https://www.aistats.org/aistats2021/
-  deadline: '2020-10-15 08:00:00'
-  timezone: America/Los_Angeles
-  date: April 13-15, 2021
-  place: San Diego, California, USA
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Oct 8, 2020. More info <a href=''http://www.aistats.org/aistats2021/cfp.html''>here</a>.'
-
-- title: TACAS
-  fullname: International Conference on Tools and Algorithms for the Construction
-    and Analysis of Systems
-  year: 2021
-  id: tacas21
-  link: https://www.etaps.org/2021/tacas
-  rank: 82
-  date: March 27-April 1, 2021
-  deadline: '2020-10-15 23:59:00'
-  timezone: UTC-12
-  place: Virtual
-  sub: VV
-
 - title: ICRA
   fullname: IEEE International Conference on Robotics and Automation
   year: 2021
@@ -185,32 +78,6 @@
   place: Xi'an, China
   sub: RO
 
-- title: SciTech
-  fullname: AIAA SciTech Forum and Exposition
-  year: 2021
-  id: scitech21
-  link: https://www.aiaa.org/SciTech
-  date: January 11-15, 2021
-  abstract_deadline: '2020-06-08 20:00:00'
-  deadline: '2020-12-01 20:00:00'
-  timezone: America/New_York
-  place: Nashville, Tennessee
-  sub: AA
-
-- title: ICAPS
-  fullname: International Conference on Automated Planning and Scheduling
-  hindex: 28
-  year: 2021
-  id: icaps21
-  link: https://icaps21.icaps-conference.org/
-  deadline: '2020-12-18 23:59:59'
-  abstract_deadline: '2020-12-11 23:59:59'
-  timezone: UTC-12
-  date: June 7-12, 2021
-  place: Guangzhou, China
-  sub: ML
-  note: Mandatory abstract deadline on Dec 11, 2020. Doctoral consortium
-
 - title: CCTA
   fullname: Conference on Control Technology and Applications
   year: 2021
@@ -221,43 +88,6 @@
   date: August 8-11, 2021
   place: San Diego, CA
   sub: RO
-
-- title: IJCAI
-  fullname: International Joint Conference on Artificial Intelligence
-  year: 2021
-  rank: 22
-  hindex: 67
-  id: ijcai21
-  link: https://ijcai-21.org/
-  deadline: '2021-01-20 23:59:59'
-  abstract_deadline: '2021-01-13 23:59:59'
-  timezone: UTC-12
-  date: August 21-26, 2021
-  place: Montreal, Canada
-  sub: ML, AI
-
-- title: CAV
-  fullname: International Conference on Computer-Aided Verification
-  year: 2021
-  id: cav21
-  link: http://i-cav.org/2021/
-  rank: 83
-  date: July 20-23, 2021
-  deadline: '2021-01-28 23:59:59'
-  timezone: UTC-12
-  place: Los Angeles, California
-  sub: VV
-
-- title: IV
-  fullname: IEEE Intelligent Vehicles Symposium
-  year: 2021
-  id: iv21
-  link: https://2021.ieee-iv.org/
-  date: July 11-15, 2021
-  deadline: '2021-02-01 23:59:59'
-  timezone: America/Los_Angeles
-  place: Nagoya University, Nagoya, Japan
-  sub: AUTO, AI
 
 - title: ICML
   fullname: International Conference on Machine Learning
@@ -271,30 +101,6 @@
   timezone: UTC-12
   date: July 18-24, 2021
   place: Vienna, Austria
-  sub: ML
-
-- title: KDD
-  hindex: 30
-  year: 2021
-  id: kdd21
-  link: https://www.kdd.org/kdd2021/
-  deadline: '2021-02-08 23:59:59'
-  timezone: UTC-12
-  date: August 14-18, 2021
-  place: Singapore
-  sub: ML
-
-- title: UAI
-  fullname: Conference on Uncertainty in Artificial Intelligence
-  rank: 103
-  hindex: 33
-  year: 2021
-  id: uai21
-  link: http://auai.org/uai2021/
-  deadline: '2021-02-19 23:59:59'
-  timezone: UTC
-  date: July 26-30, 2021
-  place: TBD
   sub: ML
 
 - title: IROS
@@ -321,17 +127,6 @@
   place: Online
   sub: RO
 
-- title: ITSC
-  fullname: IEEE International Conference on Intelligent Transportation Systems
-  year: 2021
-  id: itsc21
-  link: https://2021.ieee-itsc.org/
-  date: September 19-22, 2021
-  deadline: '2021-03-15 23:59:59'
-  timezone: America/Los_Angeles
-  place: Indianapolis, IN
-  sub: AUTO, AI
-
 - title: CDC
   fullname: IEEE Conference on Decision and Control
   year: 2021
@@ -342,29 +137,6 @@
   date: December 13-15, 2021
   place: Austin, TX
   sub: RO, AI
-
-- title: ECML-PKDD
-  hindex: 30
-  year: 2021
-  id: ecmlpkdd2021
-  link: https://2021.ecmlpkdd.org/
-  deadline: '2021-04-02 23:59:59'
-  abstract_deadline: '2021-03-26 23:59:59'
-  timezone: UTC-12
-  date: September 13-17, 2021
-  place: Bilbao, Basque Country (Spain)
-  sub: ML
-
-- title: AVIATION
-  fullname: AIAA AVIATION Forum and Exposition
-  year: 2021
-  id: aviation21
-  link: https://www.aiaa.org/aviation
-  date: June 7-11, 2021
-  deadline: '2021-05-04 20:00:00'
-  timezone: America/New_York
-  place: Washington, DC
-  sub: AA
 
 - title: NeurIPS
   fullname: Conference on Neural Information Processing Systems
@@ -379,34 +151,3 @@
   place: Online
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 19, 2021'
-
-- title: AIAA Space
-  fullname: AIAA Space and Astronautics Forum and Exposition
-  year: 2020
-  id: aiaaspace20
-  link: https://arc.aiaa.org/series/6.space
-  date: TBD
-  deadline: TBD
-  place: TBD
-  sub: AA
-
-- title: FSW
-  fullname: NASA Flight Software Workshop
-  year: 2020
-  id: fsw20
-  link: http://flightsoftware.jhuapl.edu/
-  date: TBD
-  deadline: TBD
-  place: TBD
-  sub: AA
-
-- title: ATM Seminar
-  fullname: Air Traffic Management Research and Development
-  year: 2021
-  id: atm21
-  link: http://www.atmseminar.org/
-  date: TBD
-  deadline: TBD
-  place: TBD
-  sub: AA
-  note: Biennial
