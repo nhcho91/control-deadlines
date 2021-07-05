@@ -11,6 +11,17 @@
   place: Atlanta, GA, USA
   sub: CTRL
 
+- title: CCTA
+  fullname: IEEE Conference on Control Technology and Applications
+  year: 2022
+  id: 2022_CCTA
+  link: https://ieeecss.org
+  deadline: '2021-10-01 23:59:59'
+  timezone: UTC+2
+  date: August 23-25, 2022
+  place: Trieste, Italy
+  sub: CTRL
+
 - title: EuroGNC
   fullname: CEAS Conference on Guidance, Navigation and Control
   year: 2022
@@ -21,17 +32,6 @@
   date: May 3-5, 2022
   place: Berlin, Germany
   sub: AA
-
-- title: CCTA
-  fullname: IEEE Conference on Control Technology and Applications
-  year: 2022
-  id: 2022_CCTA
-  link: https://ieeecss.org
-  deadline: '2021-11-01 23:59:59'
-  timezone: UTC+2
-  date: August 23-25, 2022
-  place: Trieste, Italy
-  sub: CTRL
 
 - title: ECC
   fullname: European Control Conference
