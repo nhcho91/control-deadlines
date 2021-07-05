@@ -1,13 +1,9 @@
 ---
-- name: Artificial Intelligence
-  sub: AI
+- name: Control
+  sub: CTRL
 - name: Aerospace
   sub: AA
-- name: Autonomous Driving
-  sub: AUTO
+- name: Robotics
+  sub: ROB
 - name: Machine Learning
   sub: ML
-- name: Robotics
-  sub: RO
-- name: Validation
-  sub: VV
