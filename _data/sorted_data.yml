@@ -3,7 +3,7 @@
 - title: ACC
   fullname: American Control Conference
   year: 2022
-  id: 2022_ACC
+  id: acc22
   link: https://acc2022.a2c2.org
   deadline: '2021-09-28 23:59:59'
   timezone: UTC-5
@@ -14,7 +14,7 @@
 - title: CCTA
   fullname: IEEE Conference on Control Technology and Applications
   year: 2022
-  id: 2022_CCTA
+  id: ccta22
   link: https://ieeecss.org
   deadline: '2021-10-01 23:59:59'
   timezone: UTC+2
@@ -25,18 +25,18 @@
 - title: EuroGNC
   fullname: CEAS Conference on Guidance, Navigation and Control
   year: 2022
-  id: 2022_EuroGNC
+  id: egnc22
   link: https://eurognc2022.dglr.de
   deadline: '2021-10-31 23:59:59'
   timezone: UTC+2
   date: May 3-5, 2022
   place: Berlin, Germany
-  sub: AA
+  sub: AA, CTRL
 
 - title: ECC
   fullname: European Control Conference
   year: 2022
-  id: 2022_ECC
+  id: ecc22
   link: https://ecc22.euca-ecc.org
   deadline: '2021-11-01 23:59:59'
   timezone: UTC
