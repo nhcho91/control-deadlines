@@ -6,7 +6,7 @@ Countdown timers to keep track of conference deadlines relating to research by [
 - Aerospace
 - Robotics
 
-https://nhcho91.github.io/conference-deadlines/
+https://nhcho91.github.io/control-deadlines/
 
 ## Source
 Derived from deadlines page of [SISL at Stanford](https://sisl.github.io/sisl-deadlines/?sub=AI,AA,AUTO,ML,RO,VV)
