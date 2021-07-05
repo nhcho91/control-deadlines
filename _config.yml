@@ -1,14 +1,12 @@
-title: SISL Conference Deadlines # (Maintained by @mossr)
-description: Deadline countdowns for conferences relating to research at the <a href='https://sisl.stanford.edu'>Stanford Intelligent Systems Laboratory (SISL)</a>
-author: Robert Moss (forked from Abhishek Das)
+title: Conference Deadlines # (Maintained by @nhcho91)
+description: Deadline countdowns for control/autonomy/aerospace conferences relating to research by <a href='https://nhcho91.github.io'>Namhoon Cho</a>
+author: Namhoon Cho (forked from Robert Moss and Abhishek Das)
 
-domain: "sisl.github.io"
-baseurl: "/sisl-deadlines"
+domain: "nhcho91.github.io"
+baseurl: "/control-deadlines"
 
-twitter_username: SISLaboratory
-twitter_hashtag: sisl
-github_username: sisl
-github_repo: sisl-deadlines
+github_username: nhcho91
+github_repo: control-deadlines
 
 markdown: kramdown
 ga_id: 
