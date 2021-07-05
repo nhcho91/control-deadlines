@@ -96,7 +96,7 @@ def query_yes_no(question, default="no"):
 
 # Sort:
 
-with open("../_data/conferences.yml", 'r') as stream:
+with open("_data/conferences.yml", 'r') as stream:
     try:
         # Sort based on 'abstract_deadline' if key exists, default to 'deadline'
         def deadline(x):
@@ -133,7 +133,7 @@ with open("../_data/conferences.yml", 'r') as stream:
             print(deadline(q), " - ", q["title"])
         print("\n\n")
 
-        with open('sorted_data.yml', 'w') as outfile:
+        with open('_data/sorted_data.yml', 'w') as outfile:
             for line in ordered_dump(
                     conf + tba,
                     Dumper=yaml.SafeDumper,
@@ -142,6 +142,6 @@ with open("../_data/conferences.yml", 'r') as stream:
                 outfile.write(line.replace('- title:', '\n- title:'))
                 outfile.write('\n')
         # Replace conference.yml file
-        copyfile('sorted_data.yml', '../_data/conferences.yml')
+        copyfile('_data/sorted_data.yml', '_data/conferences.yml')
     except yaml.YAMLError as exc:
         print(exc)
