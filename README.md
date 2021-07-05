@@ -1,15 +1,15 @@
-## SISL Deadlines [![Build Status](https://travis-ci.com/sisl/sisl-deadlines.svg?branch=gh-pages)](https://travis-ci.com/sisl/sisl-deadlines)
+## Conference Deadlines
 
-Countdown timers to keep track of conference deadlines relating to research at the [Stanford Intelligent Systems Laboratory (SISL)](http://sisl.stanford.edu/)
-- AI
+Countdown timers to keep track of conference deadlines relating to research by [Namhoon Cho](https://nhcho91.github.io)
+- Control / Estimation
+- Machine Learning
 - Aerospace
-- Autonomous Driving
 - Robotics
-- Validation
 
-https://sisl.github.io/sisl-deadlines/
+https://nhcho91.github.io/conference-deadlines/
 
-(Alias: http://bit.ly/sisl-deadlines)
+## Source
+Derived from deadlines page of [SISL at Stanford](https://sisl.github.io/sisl-deadlines/?sub=AI,AA,AUTO,ML,RO,VV)
 
 ## Adding/updating a conference
 
