@@ -65,3 +65,14 @@
   date: "26 November \u2013 4 December 2022"
   place: New Orleans, LA, USA
   sub: ML
+
+- title: SciTech
+  fullname: AIAA Science and Technology Forum and Exposition
+  year: 2023
+  id: scitech23
+  link: https://www.aiaa.org/SciTech
+  deadline: TBA
+  timezone: UTC
+  date: "15\u201320 January 2023"
+  place: National Harbor, MD, USA
+  sub: ML
