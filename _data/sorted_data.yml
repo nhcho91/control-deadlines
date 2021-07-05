@@ -43,3 +43,25 @@
   date: 23-25 August 2022
   place: Trieste, Italy
   sub: CTRL
+
+- title: CDC
+  fullname: IEEE Conference on Decision and Control
+  year: 2022
+  id: cdc22
+  link: https://ieeecss.org
+  deadline: TBA
+  timezone: UTC-8
+  date: 6-9 December 2022
+  place: Cancun, Mexico
+  sub: CTRL
+
+- title: NeurIPS
+  fullname: IEEE Conference on Decision and Control
+  year: 2022
+  id: nips22
+  link: https://nips.cc
+  deadline: TBA
+  timezone: UTC
+  date: "26 November \u2013 4 December 2022"
+  place: New Orleans, LA, USA
+  sub: ML
