@@ -1,5 +1,16 @@
 ---
 
+- title: AAAI
+  fullname: AAAI Conference on Artificial Intelligence
+  year: 2022
+  id: aaai22
+  link: https://aaai.org/Conferences/AAAI-22/
+  deadline: '2021-08-30 23:59:59'
+  timezone: UTC-12
+  date: 22 February - 1 March 2022
+  place: Vancouver, BC, Canada
+  sub: ML
+
 - title: ICLR
   fullname: International Conference on Learning Representations
   year: 2022
