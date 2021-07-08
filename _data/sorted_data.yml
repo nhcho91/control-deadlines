@@ -55,6 +55,17 @@
   place: London, UK
   sub: CTRL
 
+- title: MED
+  fullname: Mediterranean Conference on Control and Automation
+  year: 2022
+  id: med22
+  link: https://www.med-control.org/med2022/
+  deadline: '2022-02-01 23:59:59'
+  timezone: UTC+2
+  date: 28 June - 1 July 2022
+  place: Athens, Greece
+  sub: CTRL
+
 - title: CCTA
   fullname: IEEE Conference on Control Technology and Applications
   year: 2022
