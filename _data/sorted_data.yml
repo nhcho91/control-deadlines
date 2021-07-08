@@ -88,6 +88,17 @@
   place: New Orleans, LA, USA
   sub: ML
 
+- title: MED
+  fullname: Mediterranean Conference on Control and Automation
+  year: 2022
+  id: med22
+  link: https://www.med-control.org/med2022/
+  deadline: February 1, 2022
+  timezone: UTC
+  date: June 28 – July 1, 2022
+  place: Divani Apollon Palace & Thalasso, Athens, Greece
+  sub: CTRL
+
 - title: SciTech
   fullname: AIAA Science and Technology Forum and Exposition
   year: 2023
