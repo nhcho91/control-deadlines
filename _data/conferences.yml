@@ -33,6 +33,17 @@
   place: Atlanta, GA, USA
   sub: CTRL
 
+- title: UKACC
+  fullname: UK Automatic Control Council International Conference on Control
+  year: 2022
+  id: ukacc22
+  link: https://www.plymouth.ac.uk/whats-on/13th-united-kingdom-automatic-control-council-international-conference
+  deadline: '2021-09-30 23:59:59'
+  timezone: UTC
+  date: 20-22 April 2022
+  place: Plymouth, UK
+  sub: CTRL
+
 - title: EuroGNC
   fullname: CEAS Conference on Guidance, Navigation and Control
   year: 2022
