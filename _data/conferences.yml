@@ -11,6 +11,17 @@
   place: Vancouver, BC, Canada
   sub: ML
 
+- title: ICRA
+  fullname: IEEE International Conference on Robotics and Automation
+  year: 2022
+  id: icra22
+  link: https://icra2022.org
+  deadline: '2021-09-14 23:59:59'
+  timezone: UTC-4
+  date: 23-27 May 2022
+  place: Philadelphia,PA, USA
+  sub: ROB
+
 - title: ICLR
   fullname: International Conference on Learning Representations
   year: 2022
@@ -81,7 +92,7 @@
   fullname: IEEE Conference on Control Technology and Applications
   year: 2022
   id: ccta22
-  link: https://ieeecss.org
+  link: http://ieeecss.org
   deadline: TBA
   timezone: UTC+2
   date: 23-25 August 2022
@@ -92,7 +103,7 @@
   fullname: IEEE Conference on Decision and Control
   year: 2022
   id: cdc22
-  link: https://ieeecss.org
+  link: http://ieeecss.org
   deadline: TBA
   timezone: UTC-8
   date: 6-9 December 2022
