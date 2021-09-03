@@ -1,16 +1,5 @@
 ---
 
-- title: AAAI
-  fullname: AAAI Conference on Artificial Intelligence
-  year: 2022
-  id: aaai22
-  link: https://aaai.org/Conferences/AAAI-22/
-  deadline: '2021-08-30 23:59:59'
-  timezone: UTC-12
-  date: 22 February - 1 March 2022
-  place: Vancouver, BC, Canada
-  sub: ML
-
 - title: ICRA
   fullname: IEEE International Conference on Robotics and Automation
   year: 2022
@@ -77,6 +66,17 @@
   place: London, UK
   sub: CTRL
 
+- title: ALCOS
+  fullname: IFAC International Workshop on Adaptive and Learning Control Systems
+  year: 2022
+  id: alcos22
+  link: http://www.alcos2022.org
+  deadline: '2021-12-20 23:59:59'
+  timezone: UTC
+  date: 29 June - 1 July 2022
+  place: Casablanca, Morocco
+  sub: CTRL
+
 - title: MED
   fullname: Mediterranean Conference on Control and Automation
   year: 2022
@@ -87,6 +87,17 @@
   date: 28 June - 1 July 2022
   place: Athens, Greece
   sub: CTRL
+
+- title: AAAI
+  fullname: AAAI Conference on Artificial Intelligence
+  year: 2022
+  id: aaai22
+  link: https://aaai.org/Conferences/AAAI-22/
+  deadline: '2021-08-30 23:59:59'
+  timezone: UTC-12
+  date: 22 February - 1 March 2022
+  place: Vancouver, BC, Canada
+  sub: ML
 
 - title: CCTA
   fullname: IEEE Conference on Control Technology and Applications
