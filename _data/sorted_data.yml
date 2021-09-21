@@ -1,16 +1,5 @@
 ---
 
-- title: ICRA
-  fullname: IEEE International Conference on Robotics and Automation
-  year: 2022
-  id: icra22
-  link: https://icra2022.org
-  deadline: '2021-09-14 23:59:59'
-  timezone: UTC-4
-  date: 23-27 May 2022
-  place: Philadelphia,PA, USA
-  sub: ROB
-
 - title: ICLR
   fullname: International Conference on Learning Representations
   year: 2022
@@ -88,6 +77,17 @@
   place: Athens, Greece
   sub: CTRL
 
+- title: ICAS
+  fullname: ICAS Congress
+  year: 2022
+  id: icas22
+  link: https://icas2022.com
+  deadline: '2022-02-10 23:59:59'
+  timezone: UTC
+  date: 4-9 September 2022
+  place: Stockholm, Sweden
+  sub: AA
+
 - title: AAAI
   fullname: AAAI Conference on Artificial Intelligence
   year: 2022
@@ -98,6 +98,17 @@
   date: 22 February - 1 March 2022
   place: Vancouver, BC, Canada
   sub: ML
+
+- title: ICRA
+  fullname: IEEE International Conference on Robotics and Automation
+  year: 2022
+  id: icra22
+  link: https://icra2022.org
+  deadline: '2021-09-14 23:59:59'
+  timezone: UTC-4
+  date: 23-27 May 2022
+  place: Philadelphia, PA, USA
+  sub: ROB
 
 - title: CCTA
   fullname: IEEE Conference on Control Technology and Applications
