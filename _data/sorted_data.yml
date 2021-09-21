@@ -77,6 +77,17 @@
   place: Athens, Greece
   sub: CTRL
 
+- title: CCTA
+  fullname: IEEE Conference on Control Technology and Applications
+  year: 2022
+  id: ccta22
+  link: https://ccta2022.ieeecss.org
+  deadline: '2022-02-01 23:59:59'
+  timezone: UTC+2
+  date: 23-25 August 2022
+  place: Trieste, Italy
+  sub: CTRL
+
 - title: ICAS
   fullname: ICAS Congress
   year: 2022
@@ -87,39 +98,6 @@
   date: 4-9 September 2022
   place: Stockholm, Sweden
   sub: AA
-
-- title: AAAI
-  fullname: AAAI Conference on Artificial Intelligence
-  year: 2022
-  id: aaai22
-  link: https://aaai.org/Conferences/AAAI-22/
-  deadline: '2021-08-30 23:59:59'
-  timezone: UTC-12
-  date: 22 February - 1 March 2022
-  place: Vancouver, BC, Canada
-  sub: ML
-
-- title: ICRA
-  fullname: IEEE International Conference on Robotics and Automation
-  year: 2022
-  id: icra22
-  link: https://icra2022.org
-  deadline: '2021-09-14 23:59:59'
-  timezone: UTC-4
-  date: 23-27 May 2022
-  place: Philadelphia, PA, USA
-  sub: ROB
-
-- title: CCTA
-  fullname: IEEE Conference on Control Technology and Applications
-  year: 2022
-  id: ccta22
-  link: http://ieeecss.org
-  deadline: TBA
-  timezone: UTC+2
-  date: 23-25 August 2022
-  place: Trieste, Italy
-  sub: CTRL
 
 - title: CDC
   fullname: IEEE Conference on Decision and Control
