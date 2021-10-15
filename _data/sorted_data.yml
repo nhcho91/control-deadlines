@@ -1,16 +1,5 @@
 ---
 
-- title: ACC
-  fullname: American Control Conference
-  year: 2022
-  id: acc22
-  link: https://acc2022.a2c2.org
-  deadline: '2021-10-12 23:59:59'
-  timezone: UTC-5
-  date: 8-10 June 2022
-  place: Atlanta, GA, USA
-  sub: CTRL
-
 - title: EuroGNC
   fullname: CEAS Conference on Guidance, Navigation and Control
   year: 2022
@@ -43,6 +32,17 @@
   date: 20-22 April 2022
   place: Plymouth, UK
   sub: CTRL
+
+- title: L4DC
+  fullname: 4th Annual Learning for Dynamics & Control Conference
+  year: 2022
+  id: l4dc22
+  link: https://l4dc.su.domains
+  deadline: '2021-11-30 23:59:59'
+  timezone: UTC-8
+  date: 27-28 June 2022
+  place: Palo Alto, CA, USA
+  sub: ML, CTRL
 
 - title: ALCOS
   fullname: IFAC International Workshop on Adaptive and Learning Control Systems
@@ -109,6 +109,17 @@
   date: 25-29 April 2022
   place: Virtual
   sub: ML
+
+- title: ACC
+  fullname: American Control Conference
+  year: 2022
+  id: acc22
+  link: https://acc2022.a2c2.org
+  deadline: '2021-10-12 23:59:59'
+  timezone: UTC-5
+  date: 8-10 June 2022
+  place: Atlanta, GA, USA
+  sub: CTRL
 
 - title: CDC
   fullname: IEEE Conference on Decision and Control
