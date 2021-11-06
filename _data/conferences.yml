@@ -1,27 +1,5 @@
 ---
 
-- title: EuroGNC
-  fullname: CEAS Conference on Guidance, Navigation and Control
-  year: 2022
-  id: egnc22
-  link: https://eurognc2022.dglr.de
-  deadline: '2021-10-31 23:59:59'
-  timezone: UTC+2
-  date: 3-5 May 2022
-  place: Berlin, Germany
-  sub: AA, CTRL
-
-- title: ECC
-  fullname: European Control Conference
-  year: 2022
-  id: ecc22
-  link: https://ecc22.euca-ecc.org
-  deadline: '2021-11-01 23:59:59'
-  timezone: UTC
-  date: 12-15 July 2022
-  place: London, UK
-  sub: CTRL
-
 - title: UKACC
   fullname: UK Automatic Control Council International Conference on Control
   year: 2022
@@ -43,6 +21,17 @@
   date: 27-28 June 2022
   place: Palo Alto, CA, USA
   sub: ML, CTRL
+
+- title: EuroGNC
+  fullname: CEAS Conference on Guidance, Navigation and Control
+  year: 2022
+  id: egnc22
+  link: https://eurognc2022.dglr.de
+  deadline: '2021-12-10 23:59:59'
+  timezone: UTC+2
+  date: 3-5 May 2022
+  place: Berlin, Germany
+  sub: AA, CTRL
 
 - title: ALCOS
   fullname: IFAC International Workshop on Adaptive and Learning Control Systems
@@ -119,6 +108,17 @@
   timezone: UTC-5
   date: 8-10 June 2022
   place: Atlanta, GA, USA
+  sub: CTRL
+
+- title: ECC
+  fullname: European Control Conference
+  year: 2022
+  id: ecc22
+  link: https://ecc22.euca-ecc.org
+  deadline: '2021-11-01 23:59:59'
+  timezone: UTC
+  date: 12-15 July 2022
+  place: London, UK
   sub: CTRL
 
 - title: CDC
