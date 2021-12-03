@@ -1,16 +1,5 @@
 ---
 
-- title: UKACC
-  fullname: UK Automatic Control Council International Conference on Control
-  year: 2022
-  id: ukacc22
-  link: https://www.plymouth.ac.uk/whats-on/13th-united-kingdom-automatic-control-council-international-conference
-  deadline: '2021-11-30 23:59:59'
-  timezone: UTC
-  date: 20-22 April 2022
-  place: Plymouth, UK
-  sub: CTRL
-
 - title: L4DC
   fullname: 4th Annual Learning for Dynamics & Control Conference
   year: 2022
@@ -119,6 +108,17 @@
   timezone: UTC
   date: 12-15 July 2022
   place: London, UK
+  sub: CTRL
+
+- title: UKACC
+  fullname: UK Automatic Control Council International Conference on Control
+  year: 2022
+  id: ukacc22
+  link: https://www.plymouth.ac.uk/whats-on/13th-united-kingdom-automatic-control-council-international-conference
+  deadline: '2021-11-30 23:59:59'
+  timezone: UTC
+  date: 20-22 April 2022
+  place: Plymouth, UK
   sub: CTRL
 
 - title: CDC
