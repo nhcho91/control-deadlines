@@ -1,16 +1,5 @@
 ---
 
-- title: ALCOS
-  fullname: IFAC International Workshop on Adaptive and Learning Control Systems
-  year: 2022
-  id: alcos22
-  link: http://www.alcos2022.org
-  deadline: '2021-12-20 23:59:59'
-  timezone: UTC
-  date: 29 June - 1 July 2022
-  place: Casablanca, Morocco
-  sub: CTRL
-
 - title: MED
   fullname: Mediterranean Conference on Control and Automation
   year: 2022
@@ -120,6 +109,17 @@
   date: 3-5 May 2022
   place: Berlin, Germany
   sub: AA, CTRL
+
+- title: ALCOS
+  fullname: IFAC International Workshop on Adaptive and Learning Control Systems
+  year: 2022
+  id: alcos22
+  link: http://www.alcos2022.org
+  deadline: '2021-12-20 23:59:59'
+  timezone: UTC
+  date: 29 June - 1 July 2022
+  place: Casablanca, Morocco
+  sub: CTRL
 
 - title: CDC
   fullname: IEEE Conference on Decision and Control
