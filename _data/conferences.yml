@@ -1,5 +1,16 @@
 ---
 
+- title: RSS
+  fullname: Robotics: Science and Systems
+  year: 2022
+  id: rss22
+  link: https://roboticsconference.org
+  deadline: '2022-01-28 23:59:59'
+  timezone: UTC-5
+  date: 27 June - 1 July 2022
+  place: New York City, NY, USA
+  sub: ROB, CTRL
+
 - title: MED
   fullname: Mediterranean Conference on Control and Automation
   year: 2022
