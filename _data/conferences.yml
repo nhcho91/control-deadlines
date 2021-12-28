@@ -11,17 +11,6 @@
   place: Athens, Greece
   sub: CTRL
 
-- title: CCTA
-  fullname: IEEE Conference on Control Technology and Applications
-  year: 2022
-  id: ccta22
-  link: https://ccta2022.ieeecss.org
-  deadline: '2022-02-01 23:59:59'
-  timezone: UTC+2
-  date: 23-25 August 2022
-  place: Trieste, Italy
-  sub: CTRL
-
 - title: ICUAS
   fullname: International Conference on Unmanned Aircraft Systems
   year: 2022
@@ -32,6 +21,17 @@
   date: 21-24 June 2022
   place: Dubrovnik, Croatia
   sub: AA, ROB, CTRL
+
+- title: CCTA
+  fullname: IEEE Conference on Control Technology and Applications
+  year: 2022
+  id: ccta22
+  link: https://ccta2022.ieeecss.org
+  deadline: '2022-02-08 23:59:59'
+  timezone: UTC+2
+  date: 23-25 August 2022
+  place: Trieste, Italy
+  sub: CTRL
 
 - title: ICAS
   fullname: ICAS Congress
