@@ -55,6 +55,17 @@
   place: Stockholm, Sweden
   sub: AA
 
+- title: CDC
+  fullname: IEEE Conference on Decision and Control
+  year: 2022
+  id: cdc22
+  link: http://ieeecss.org
+  deadline: '2022-03-21 23:59:59'
+  timezone: UTC-5
+  date: 6-9 December 2022
+  place: Cancun, Mexico
+  sub: CTRL
+
 - title: ACC
   fullname: American Control Conference
   year: 2022
@@ -130,17 +141,6 @@
   timezone: UTC
   date: 29 June - 1 July 2022
   place: Casablanca, Morocco
-  sub: CTRL
-
-- title: CDC
-  fullname: IEEE Conference on Decision and Control
-  year: 2022
-  id: cdc22
-  link: http://ieeecss.org
-  deadline: TBA
-  timezone: UTC-8
-  date: 6-9 December 2022
-  place: Cancun, Mexico
   sub: CTRL
 
 - title: NeurIPS
