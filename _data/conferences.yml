@@ -66,17 +66,6 @@
   place: Virtual
   sub: ML
 
-- title: ACC
-  fullname: American Control Conference
-  year: 2022
-  id: acc22
-  link: https://acc2022.a2c2.org
-  deadline: '2021-10-12 23:59:59'
-  timezone: UTC-5
-  date: 8-10 June 2022
-  place: Atlanta, GA, USA
-  sub: CTRL
-
   - title: ACC
   fullname: American Control Conference
   year: 2022
