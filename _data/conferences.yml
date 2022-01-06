@@ -77,6 +77,17 @@
   place: Atlanta, GA, USA
   sub: CTRL
 
+  - title: ACC
+  fullname: American Control Conference
+  year: 2022
+  id: acc23
+  link: https://acc2023.a2c2.org
+  deadline: '2022-09-23 23:59:59'
+  timezone: UTC-8
+  date: 31 May - 2 June 2023
+  place: San Diego, CA, USA
+  sub: CTRL
+
 - title: ECC
   fullname: European Control Conference
   year: 2022
