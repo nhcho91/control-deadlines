@@ -1,49 +1,5 @@
 ---
 
-- title: RSS
-  fullname: Robotics Science and Systems
-  year: 2022
-  id: rss22
-  link: https://roboticsconference.org
-  deadline: '2022-01-28 23:59:59'
-  timezone: UTC-5
-  date: 27 June - 1 July 2022
-  place: New York City, NY, USA
-  sub: ROB, CTRL
-
-- title: MED
-  fullname: Mediterranean Conference on Control and Automation
-  year: 2022
-  id: med22
-  link: https://www.med-control.org/med2022/
-  deadline: '2022-02-01 23:59:59'
-  timezone: UTC+2
-  date: 28 June - 1 July 2022
-  place: Athens, Greece
-  sub: CTRL
-
-- title: ICUAS
-  fullname: International Conference on Unmanned Aircraft Systems
-  year: 2022
-  id: icuas22
-  link: http://www.uasconferences.com/2022_icuas/
-  deadline: '2022-02-01 23:59:59'
-  timezone: UTC
-  date: 21-24 June 2022
-  place: Dubrovnik, Croatia
-  sub: AA, ROB, CTRL
-
-- title: CCTA
-  fullname: IEEE Conference on Control Technology and Applications
-  year: 2022
-  id: ccta22
-  link: https://ccta2022.ieeecss.org
-  deadline: '2022-02-08 23:59:59'
-  timezone: UTC+2
-  date: 23-25 August 2022
-  place: Trieste, Italy
-  sub: CTRL
-
 - title: ICAS
   fullname: ICAS Congress
   year: 2022
@@ -54,6 +10,17 @@
   date: 4-9 September 2022
   place: Stockholm, Sweden
   sub: AA
+
+- title: CCTA
+  fullname: IEEE Conference on Control Technology and Applications
+  year: 2022
+  id: ccta22
+  link: https://ccta2022.ieeecss.org
+  deadline: '2022-02-22 23:59:59'
+  timezone: UTC+2
+  date: 23-25 August 2022
+  place: Trieste, Italy
+  sub: CTRL
 
 - title: CDC
   fullname: IEEE Conference on Decision and Control
@@ -164,6 +131,39 @@
   date: 29 June - 1 July 2022
   place: Casablanca, Morocco
   sub: CTRL
+
+- title: RSS
+  fullname: Robotics Science and Systems
+  year: 2022
+  id: rss22
+  link: https://roboticsconference.org
+  deadline: '2022-01-28 23:59:59'
+  timezone: UTC-5
+  date: 27 June - 1 July 2022
+  place: New York City, NY, USA
+  sub: ROB, CTRL
+
+- title: MED
+  fullname: Mediterranean Conference on Control and Automation
+  year: 2022
+  id: med22
+  link: https://www.med-control.org/med2022/
+  deadline: '2022-02-01 23:59:59'
+  timezone: UTC+2
+  date: 28 June - 1 July 2022
+  place: Athens, Greece
+  sub: CTRL
+
+- title: ICUAS
+  fullname: International Conference on Unmanned Aircraft Systems
+  year: 2022
+  id: icuas22
+  link: http://www.uasconferences.com/2022_icuas/
+  deadline: '2022-02-01 23:59:59'
+  timezone: UTC
+  date: 21-24 June 2022
+  place: Dubrovnik, Croatia
+  sub: AA, ROB, CTRL
 
 - title: NeurIPS
   fullname: IEEE Conference on Decision and Control
