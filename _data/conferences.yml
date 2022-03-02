@@ -11,6 +11,17 @@
   place: Cancun, Mexico
   sub: CTRL
 
+- title: NeurIPS
+  fullname: Conference on Neural Information Processing Systems
+  year: 2022
+  id: neurips22
+  link: https://neurips.cc/Conferences/2022/
+  deadline: '2022-05-16 13:00:00'
+  timezone: UTC-5
+  date: 28 November - 9 December 2022
+  place: New Orleans, LA, USA
+  sub: ML
+
 - title: SciTech
   fullname: AIAA Science and Technology Forum and Exposition
   year: 2023
@@ -25,7 +36,7 @@
 - title: CORL
   fullname: Conference on Robot Learning
   year: 2022
-  id: corl
+  id: corl22
   link: http://corl2022.org
   deadline: '2022-06-15 23:59:59'
   timezone: UTC-5
@@ -35,7 +46,7 @@
 
 - title: ACC
   fullname: American Control Conference
-  year: 2022
+  year: 2023
   id: acc23
   link: https://acc2023.a2c2.org
   deadline: '2022-09-23 23:59:59'
@@ -47,7 +58,7 @@
 - title: IFACWC
   fullname: IFAC World Congress
   year: 2023
-  id: ifacwc
+  id: ifacwc23
   link: https://www.ifac2023.org
   deadline: '2022-10-01 23:59:59'
   timezone: UTC+8
@@ -175,14 +186,3 @@
   date: 23-25 August 2022
   place: Trieste, Italy
   sub: CTRL
-
-- title: NeurIPS
-  fullname: IEEE Conference on Decision and Control
-  year: 2022
-  id: nips22
-  link: https://nips.cc
-  deadline: TBA
-  timezone: UTC
-  date: 26 November - 4 December 2022
-  place: New Orleans, LA, USA
-  sub: ML
