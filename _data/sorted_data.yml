@@ -1,33 +1,11 @@
 ---
 
-- title: ICAS
-  fullname: ICAS Congress
-  year: 2022
-  id: icas22
-  link: https://icas2022.com
-  deadline: '2022-02-10 23:59:59'
-  timezone: UTC
-  date: 4-9 September 2022
-  place: Stockholm, Sweden
-  sub: AA
-
-- title: CCTA
-  fullname: IEEE Conference on Control Technology and Applications
-  year: 2022
-  id: ccta22
-  link: https://ccta2022.ieeecss.org
-  deadline: '2022-02-22 23:59:59'
-  timezone: UTC+2
-  date: 23-25 August 2022
-  place: Trieste, Italy
-  sub: CTRL
-
 - title: CDC
   fullname: IEEE Conference on Decision and Control
   year: 2022
   id: cdc22
   link: http://ieeecss.org
-  deadline: '2022-03-21 23:59:59'
+  deadline: '2022-03-31 23:59:59'
   timezone: UTC-5
   date: 6-9 December 2022
   place: Cancun, Mexico
@@ -64,6 +42,17 @@
   timezone: UTC-8
   date: 31 May - 2 June 2023
   place: San Diego, CA, USA
+  sub: CTRL
+
+- title: IFACWC
+  fullname: IFAC World Congress
+  year: 2023
+  id: ifacwc
+  link: https://www.ifac2023.org
+  deadline: '2022-10-01 23:59:59'
+  timezone: UTC+8
+  date: 9-14 July 2023
+  place: Yokohama, Japan
   sub: CTRL
 
 - title: ICLR
@@ -164,6 +153,28 @@
   date: 21-24 June 2022
   place: Dubrovnik, Croatia
   sub: AA, ROB, CTRL
+
+- title: ICAS
+  fullname: ICAS Congress
+  year: 2022
+  id: icas22
+  link: https://icas2022.com
+  deadline: '2022-02-10 23:59:59'
+  timezone: UTC
+  date: 4-9 September 2022
+  place: Stockholm, Sweden
+  sub: AA
+
+- title: CCTA
+  fullname: IEEE Conference on Control Technology and Applications
+  year: 2022
+  id: ccta22
+  link: https://ccta2022.ieeecss.org
+  deadline: '2022-02-22 23:59:59'
+  timezone: UTC+2
+  date: 23-25 August 2022
+  place: Trieste, Italy
+  sub: CTRL
 
 - title: NeurIPS
   fullname: IEEE Conference on Decision and Control
