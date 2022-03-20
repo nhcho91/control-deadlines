@@ -16,7 +16,7 @@ echo "data ----> ics\n"
 cp _site/control-deadlines/control-deadlines.ics _data/
 
 # Sort conference list
-python utils/process.py
+python3 utils/process.py
 
 # local -> git repo
 echo "\nlocal dir ----> git repo"
