@@ -1,16 +1,5 @@
 ---
 
-- title: ACA
-  fullname: IFAC International Symposium on Automatic Control in Aerospace
-  year: 2022
-  id: aca22
-  link: https://aca2022.com
-  deadline: '2022-04-15 23:59:59'
-  timezone: UTC
-  date: 22-26 August 2022
-  place: Mumbai, India
-  sub: AA, CTRL
-
 - title: APISAT
   fullname: Asia-Pacific International Symposium onAerospace Technology
   year: 2022
@@ -230,3 +219,14 @@
   date: 6-9 December 2022
   place: Cancun, Mexico
   sub: CTRL
+
+- title: ACA
+  fullname: IFAC International Symposium on Automatic Control in Aerospace
+  year: 2022
+  id: aca22
+  link: https://aca2022.com
+  deadline: '2022-04-15 23:59:59'
+  timezone: UTC
+  date: 22-26 August 2022
+  place: Mumbai, India
+  sub: AA, CTRL
