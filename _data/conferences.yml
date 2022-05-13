@@ -1,16 +1,5 @@
 ---
 
-- title: APISAT
-  fullname: Asia-Pacific International Symposium onAerospace Technology
-  year: 2022
-  id: apisat22
-  link: https://smartconf.jp/content/apisat2022/
-  deadline: '2022-05-13 23:59:59'
-  timezone: UTC+9
-  date: 12-14 October 2022
-  place: Niigata City, Japan
-  sub: AA
-
 - title: NeurIPS
   fullname: Conference on Neural Information Processing Systems
   year: 2022
@@ -32,6 +21,17 @@
   date: 23-27 January 2023
   place: National Harbor, MD, USA
   sub: AA
+
+- title: MFI
+  fullname: IEEE International Conference on Multisensor Fusion and Integration
+  year: 2022
+  id: mfi22
+  link: https://www.mfi2022.com
+  deadline: '2022-06-15 23:59:59'
+  timezone: UTC
+  date: 20-22 September 2022
+  place: Cranfield, UK
+  sub: CTRL
 
 - title: CORL
   fullname: Conference on Robot Learning
@@ -230,3 +230,14 @@
   date: 22-26 August 2022
   place: Mumbai, India
   sub: AA, CTRL
+
+- title: APISAT
+  fullname: Asia-Pacific International Symposium onAerospace Technology
+  year: 2022
+  id: apisat22
+  link: https://smartconf.jp/content/apisat2022/
+  deadline: '2022-05-13 23:59:59'
+  timezone: UTC+9
+  date: 12-14 October 2022
+  place: Niigata City, Japan
+  sub: AA
