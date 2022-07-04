@@ -1,38 +1,5 @@
 ---
 
-- title: SciTech
-  fullname: AIAA Science and Technology Forum and Exposition
-  year: 2023
-  id: scitech23
-  link: https://www.aiaa.org/SciTech
-  deadline: '2022-06-01 23:59:59'
-  timezone: UTC-5
-  date: 23-27 January 2023
-  place: National Harbor, MD, USA
-  sub: AA
-
-- title: MFI
-  fullname: IEEE International Conference on Multisensor Fusion and Integration
-  year: 2022
-  id: mfi22
-  link: https://www.mfi2022.com
-  deadline: '2022-06-15 23:59:59'
-  timezone: UTC
-  date: 20-22 September 2022
-  place: Cranfield, UK
-  sub: CTRL
-
-- title: CORL
-  fullname: Conference on Robot Learning
-  year: 2022
-  id: corl22
-  link: http://corl2022.org
-  deadline: '2022-06-15 23:59:59'
-  timezone: UTC-5
-  date: 14-18 December 2022
-  place: Auckland, New Zealand
-  sub: ML, ROB
-
 - title: RiTA
   fullname: International Conference on Robot Intelligence Technology and Applications
   year: 2022
@@ -241,3 +208,36 @@
   date: 28 November - 9 December 2022
   place: New Orleans, LA, USA
   sub: ML
+
+- title: SciTech
+  fullname: AIAA Science and Technology Forum and Exposition
+  year: 2023
+  id: scitech23
+  link: https://www.aiaa.org/SciTech
+  deadline: '2022-06-01 23:59:59'
+  timezone: UTC-5
+  date: 23-27 January 2023
+  place: National Harbor, MD, USA
+  sub: AA
+
+- title: MFI
+  fullname: IEEE International Conference on Multisensor Fusion and Integration
+  year: 2022
+  id: mfi22
+  link: https://www.mfi2022.com
+  deadline: '2022-06-15 23:59:59'
+  timezone: UTC
+  date: 20-22 September 2022
+  place: Cranfield, UK
+  sub: CTRL
+
+- title: CORL
+  fullname: Conference on Robot Learning
+  year: 2022
+  id: corl22
+  link: http://corl2022.org
+  deadline: '2022-06-15 23:59:59'
+  timezone: UTC-5
+  date: 14-18 December 2022
+  place: Auckland, New Zealand
+  sub: ML, ROB
