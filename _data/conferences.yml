@@ -1,5 +1,16 @@
 ---
 
+- title: CCTA
+  fullname: IEEE Conference on Control Technology and Applications
+  year: 2023
+  id: ccta23
+  link: https://ccta2023.ieeecss.org
+  deadline: '2023-02-22 23:59:59'
+  timezone: UTC
+  date: 16 - 18 August 2023
+  place: Bridgetown, Barbados
+  sub: CTRL, ROB
+
 - title: ICRA
   fullname: IEEE Conference on Robotics and Automation
   year: 2023
@@ -16,7 +27,7 @@
   year: 2023
   id: acc23
   link: https://acc2023.a2c2.org
-  deadline: '2022-09-23 23:59:59'
+  deadline: '2022-09-30 23:59:59'
   timezone: UTC-8
   date: 31 May - 2 June 2023
   place: San Diego, CA, USA
