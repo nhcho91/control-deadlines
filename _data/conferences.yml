@@ -1,11 +1,32 @@
 ---
+- title: NeurIPS
+  fullname: Conference on Neural Information Processing Systems
+  year: 2023
+  id: neurips23
+  link: https://neurips.cc
+  deadline: '2023-05-11 23:59:59'
+  timezone: UTC-6
+  date: 10-16 December 2023
+  place: New Orleans, LA, USA
+  sub: ML
+
+- title: CORL
+  fullname: Conference on Robot Learning
+  year: 2023
+  id: corl23
+  link: https://corl2023.org
+  deadline: '2023-06-08 23:59:59'
+  timezone: UTC-5
+  date: 6-9 November 2023
+  place: Atlanta, GA, USA
+  sub: ROB, ML
 
 - title: CDC
   fullname: IEEE Conference on Decision and Control
   year: 2023
   id: cdc23
   link: https://cdc2023.ieeecss.org
-  deadline: '2023-03-03 23:59:59'
+  deadline: '2023-03-31 23:59:59'
   timezone: UTC+7
   date: 13-15 December 2022
   place: Marina Bay Sands, Singapore
