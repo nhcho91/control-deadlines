@@ -1,48 +1,37 @@
 ---
 
-- title: ICRA
-  fullname: IEEE Conference on Robotics and Automation
+- title: TAROS
+  fullname: Towards Autonomous Robotic Systems Conference
   year: 2023
-  id: icra23
-  link: https://www.icra2023.org
-  deadline: '2022-09-15 23:59:59'
+  id: taros23
+  link: https://taros-conference.org
+  deadline: '2023-04-30 23:59:59'
   timezone: UTC
-  date: 29 May - 2 June 2023
-  place: London, UK
+  date: 13-15 September 2023
+  place: Cambridge, UK
   sub: ROB
 
-- title: ACC
-  fullname: American Control Conference
+- title: NeurIPS
+  fullname: Conference on Neural Information Processing Systems
   year: 2023
-  id: acc23
-  link: https://acc2023.a2c2.org
-  deadline: '2022-09-23 23:59:59'
-  timezone: UTC-8
-  date: 31 May - 2 June 2023
-  place: San Diego, CA, USA
-  sub: CTRL
+  id: neurips23
+  link: https://neurips.cc
+  deadline: '2023-05-11 23:59:59'
+  timezone: UTC-6
+  date: 10-16 December 2023
+  place: New Orleans, LA, USA
+  sub: ML
 
-- title: IFACWC
-  fullname: IFAC World Congress
+- title: CORL
+  fullname: Conference on Robot Learning
   year: 2023
-  id: ifacwc23
-  link: https://www.ifac2023.org
-  deadline: '2022-10-31 23:59:59'
-  timezone: UTC+8
-  date: 9-14 July 2023
-  place: Yokohama, Japan
-  sub: CTRL
-
-- title: L4DC
-  fullname: Learning for Dynamics and Control Conference
-  year: 2023
-  id: l4dc23
-  link: https://l4dc.seas.upenn.edu/
-  deadline: '2022-11-18 17:00:00'
+  id: corl23
+  link: https://corl2023.org
+  deadline: '2023-06-08 23:59:59'
   timezone: UTC-5
-  date: June 2023
-  place: Philadelphia, PA, USA
-  sub: ML, CTRL
+  date: 6-9 November 2023
+  place: Atlanta, GA, USA
+  sub: ROB, ML
 
 - title: ICLR
   fullname: International Conference on Learning Representations
@@ -274,3 +263,69 @@
   date: 26-30 September 2022
   place: Toronto, Ontario, Canada
   sub: ML
+
+- title: ICRA
+  fullname: IEEE Conference on Robotics and Automation
+  year: 2023
+  id: icra23
+  link: https://www.icra2023.org
+  deadline: '2022-09-15 23:59:59'
+  timezone: UTC
+  date: 29 May - 2 June 2023
+  place: London, UK
+  sub: ROB
+
+- title: ACC
+  fullname: American Control Conference
+  year: 2023
+  id: acc23
+  link: https://acc2023.a2c2.org
+  deadline: '2022-09-30 23:59:59'
+  timezone: UTC-8
+  date: 31 May - 2 June 2023
+  place: San Diego, CA, USA
+  sub: CTRL
+
+- title: IFACWC
+  fullname: IFAC World Congress
+  year: 2023
+  id: ifacwc23
+  link: https://www.ifac2023.org
+  deadline: '2022-11-11 23:59:59'
+  timezone: UTC+8
+  date: 9-14 July 2023
+  place: Yokohama, Japan
+  sub: CTRL
+
+- title: L4DC
+  fullname: Learning for Dynamics and Control Conference
+  year: 2023
+  id: l4dc23
+  link: https://l4dc.seas.upenn.edu/
+  deadline: '2022-11-18 17:00:00'
+  timezone: UTC-5
+  date: June 2023
+  place: Philadelphia, PA, USA
+  sub: ML, CTRL
+
+- title: CCTA
+  fullname: IEEE Conference on Control Technology and Applications
+  year: 2023
+  id: ccta23
+  link: https://ieeeccta.org
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC
+  date: 16 - 18 August 2023
+  place: Bridgetown, Barbados
+  sub: CTRL, ROB
+
+- title: CDC
+  fullname: IEEE Conference on Decision and Control
+  year: 2023
+  id: cdc23
+  link: https://cdc2023.ieeecss.org
+  deadline: '2023-03-31 23:59:59'
+  timezone: UTC+7
+  date: 13-15 December 2022
+  place: Marina Bay Sands, Singapore
+  sub: CTRL
