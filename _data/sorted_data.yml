@@ -1,5 +1,16 @@
 ---
 
+- title: RA-L - LSRC
+  fullname: IEEE Robotics and Automation Letters
+  year: 2023
+  id: rallsrc23
+  link: https://www.ieee-ras.org/publications/ra-l/special-issues/current-special-issues/cfp-learning-for-safe-and-robust-control
+  deadline: '2023-04-30 23:59:59'
+  timezone: UTC
+  date: 27 October 2023
+  place: virtual
+  sub: ROB, CTRL
+
 - title: TAROS
   fullname: Towards Autonomous Robotic Systems Conference
   year: 2023
@@ -11,6 +22,18 @@
   place: Cambridge, UK
   sub: ROB
 
+- title: ACC - SRLPPC
+  fullname: ACC Workshop - Safe and Robust Learning for Perception-based Planning
+    and Control
+  year: 2023
+  id: accsrlppc23
+  link: https://sites.google.com/umich.edu/safeperceptionbasedcontrol/home
+  deadline: '2023-05-05 23:59:59'
+  timezone: UTC
+  date: 30 May 2023
+  place: San Diego, CA, USA
+  sub: CTRL, ROB
+
 - title: NeurIPS
   fullname: Conference on Neural Information Processing Systems
   year: 2023
@@ -21,6 +44,17 @@
   date: 10-16 December 2023
   place: New Orleans, LA, USA
   sub: ML
+
+- title: ICML -
+  fullname: ICML Workshop - New Frontiers in Learning, Control, and Dynamical Systems
+  year: 2023
+  id: icml4lcd2023
+  link: https://frontiers4lcd.github.io
+  deadline: '2023-05-29 23:59:59'
+  timezone: UTC-10
+  date: 28 July 2023
+  place: Honolulu, HI, USA
+  sub: ML, CTRL
 
 - title: CORL
   fullname: Conference on Robot Learning
