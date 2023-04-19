@@ -45,6 +45,17 @@
   place: New Orleans, LA, USA
   sub: ML
 
+- title: SciTech
+  fullname: AIAA Science and Technology Forum and Exposition
+  year: 2024
+  id: scitech24
+  link: https://www.aiaa.org/SciTech
+  deadline: '2023-05-25 20:00:00'
+  timezone: UTC-5
+  date: 8-12 January 2024
+  place: Orlando, FL, USA
+  sub: AA
+
 - title: ICML - F4LCD
   fullname: ICML Workshop - New Frontiers in Learning, Control, and Dynamical Systems
   year: 2023
