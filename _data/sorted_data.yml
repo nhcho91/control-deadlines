@@ -1,27 +1,5 @@
 ---
 
-- title: NeurIPS
-  fullname: Conference on Neural Information Processing Systems
-  year: 2023
-  id: neurips23
-  link: https://neurips.cc
-  deadline: '2023-05-11 23:59:59'
-  timezone: UTC-6
-  date: 10-16 December 2023
-  place: New Orleans, LA, USA
-  sub: ML
-
-- title: TAROS
-  fullname: Towards Autonomous Robotic Systems Conference
-  year: 2023
-  id: taros23
-  link: https://taros-conference.org
-  deadline: '2023-05-14 23:59:59'
-  timezone: UTC
-  date: 13-15 September 2023
-  place: Cambridge, UK
-  sub: ROB
-
 - title: SciTech
   fullname: AIAA Science and Technology Forum and Exposition
   year: 2024
@@ -54,6 +32,17 @@
   date: 6-9 November 2023
   place: Atlanta, GA, USA
   sub: ROB, ML
+
+- title: ACC
+  fullname: American Control Conference
+  year: 2024
+  id: acc24
+  link: https://acc2024.a2c2.org
+  deadline: '2023-09-08 23:59:59'
+  timezone: UTC-6
+  date: 8-12 July 2024
+  place: Toronto, ON, Canada
+  sub: CTRL
 
 - title: ICLR
   fullname: International Conference on Learning Representations
@@ -374,3 +363,25 @@
   date: 30 May 2023
   place: San Diego, CA, USA
   sub: CTRL, ROB
+
+- title: NeurIPS
+  fullname: Conference on Neural Information Processing Systems
+  year: 2023
+  id: neurips23
+  link: https://neurips.cc
+  deadline: '2023-05-11 23:59:59'
+  timezone: UTC-6
+  date: 10-16 December 2023
+  place: New Orleans, LA, USA
+  sub: ML
+
+- title: TAROS
+  fullname: Towards Autonomous Robotic Systems Conference
+  year: 2023
+  id: taros23
+  link: https://taros-conference.org
+  deadline: '2023-05-14 23:59:59'
+  timezone: UTC
+  date: 13-15 September 2023
+  place: Cambridge, UK
+  sub: ROB
