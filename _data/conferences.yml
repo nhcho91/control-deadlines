@@ -1,37 +1,27 @@
 ---
 
-- title: SciTech
-  fullname: AIAA Science and Technology Forum and Exposition
-  year: 2024
-  id: scitech24
-  link: https://www.aiaa.org/SciTech
-  deadline: '2023-05-25 20:00:00'
-  timezone: UTC-5
-  date: 8-12 January 2024
-  place: Orlando, FL, USA
-  sub: AA
-
-- title: ICML - F4LCD
-  fullname: ICML Workshop - New Frontiers in Learning, Control, and Dynamical Systems
+- title: Allerton
+  fullname: 59th Annual Allerton Conference on Communication, Control, and Computing
   year: 2023
-  id: icml4lcd2023
-  link: https://frontiers4lcd.github.io
-  deadline: '2023-05-29 23:59:59'
-  timezone: UTC-10
-  date: 28 July 2023
-  place: Honolulu, HI, USA
+  id: allerton23
+  link: https://allerton.csl.illinois.edu
+  deadline: '2023-07-10 23:59:59'
+  timezone: UTC-8
+  date: 26-29 September 2023
+  place: N/A
   sub: ML, CTRL
 
-- title: CORL
-  fullname: Conference on Robot Learning
+- title: LCSS - SI - CALC
+  fullname: IEEE L-CSS Special Issue - Composite Adaptive and Learning Control with
+    Robotic Applications
   year: 2023
-  id: corl23
-  link: https://corl2023.org
-  deadline: '2023-06-08 23:59:59'
-  timezone: UTC-5
-  date: 6-9 November 2023
-  place: Atlanta, GA, USA
-  sub: ROB, ML
+  id: lcsscalc2023
+  link: http://ieee-cssletters.dei.unipd.it/pdf/CSS_Special_Issue-CFP_CALC.pdf
+  deadline: '2023-08-31 23:59:59'
+  timezone: UTC
+  date: 31 August 2023
+  place: N/A
+  sub: CTRL
 
 - title: ACC
   fullname: American Control Conference
@@ -385,3 +375,36 @@
   date: 13-15 September 2023
   place: Cambridge, UK
   sub: ROB
+
+- title: SciTech
+  fullname: AIAA Science and Technology Forum and Exposition
+  year: 2024
+  id: scitech24
+  link: https://www.aiaa.org/SciTech
+  deadline: '2023-05-25 20:00:00'
+  timezone: UTC-5
+  date: 8-12 January 2024
+  place: Orlando, FL, USA
+  sub: AA
+
+- title: ICML - F4LCD
+  fullname: ICML Workshop - New Frontiers in Learning, Control, and Dynamical Systems
+  year: 2023
+  id: icml4lcd2023
+  link: https://frontiers4lcd.github.io
+  deadline: '2023-05-29 23:59:59'
+  timezone: UTC-10
+  date: 28 July 2023
+  place: Honolulu, HI, USA
+  sub: ML, CTRL
+
+- title: CORL
+  fullname: Conference on Robot Learning
+  year: 2023
+  id: corl23
+  link: https://corl2023.org
+  deadline: '2023-06-08 23:59:59'
+  timezone: UTC-5
+  date: 6-9 November 2023
+  place: Atlanta, GA, USA
+  sub: ROB, ML
