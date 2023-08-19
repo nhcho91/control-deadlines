@@ -1,16 +1,5 @@
 ---
 
-- title: Allerton
-  fullname: 59th Annual Allerton Conference on Communication, Control, and Computing
-  year: 2023
-  id: allerton23
-  link: https://allerton.csl.illinois.edu
-  deadline: '2023-07-10 23:59:59'
-  timezone: UTC-8
-  date: 26-29 September 2023
-  place: N/A
-  sub: ML, CTRL
-
 - title: LCSS - SI - CALC
   fullname: IEEE L-CSS Special Issue - Composite Adaptive and Learning Control with
     Robotic Applications
@@ -23,16 +12,49 @@
   place: N/A
   sub: CTRL
 
+- title: ICRA
+  fullname: IEEE Conference on Robotics and Automation
+  year: 2024
+  id: icra24
+  link: http://ieee-icra.org
+  deadline: '2023-09-15 23:59:59'
+  timezone: UTC
+  date: 13-17 May 2024
+  place: Yokohama, Japan
+  sub: ROB
+
 - title: ACC
   fullname: American Control Conference
   year: 2024
   id: acc24
   link: https://acc2024.a2c2.org
-  deadline: '2023-09-08 23:59:59'
+  deadline: '2023-09-22 23:59:59'
   timezone: UTC-6
   date: 8-12 July 2024
   place: Toronto, ON, Canada
   sub: CTRL
+
+- title: L4DC
+  fullname: 6th Annual Learning for Dynamics & Control Conference
+  year: 2024
+  id: l4dc24
+  link: https://l4dc.web.ox.ac.uk
+  deadline: '2023-12-01 00:00:00'
+  timezone: UTC
+  date: 15-17 July 2024
+  place: Oxford, UK
+  sub: ML, CTRL
+
+- title: SysDO
+  fullname: Symposium on Systems Theory in Data and Optimization
+  year: 2024
+  id: sysdo24
+  link: https://www.sysdo2024.de
+  deadline: '2024-05-01 23:59:59'
+  timezone: UTC+1
+  date: 30 September - 2 October 2024
+  place: University of Stuttgart, Germany
+  sub: ML, CTRL
 
 - title: ICLR
   fullname: International Conference on Learning Representations
@@ -408,3 +430,14 @@
   date: 6-9 November 2023
   place: Atlanta, GA, USA
   sub: ROB, ML
+
+- title: Allerton
+  fullname: 59th Annual Allerton Conference on Communication, Control, and Computing
+  year: 2023
+  id: allerton23
+  link: https://allerton.csl.illinois.edu
+  deadline: '2023-07-10 23:59:59'
+  timezone: UTC-8
+  date: 26-29 September 2023
+  place: N/A
+  sub: ML, CTRL
