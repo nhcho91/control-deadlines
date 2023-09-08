@@ -1,17 +1,5 @@
 ---
 
-- title: LCSS - SI - CALC
-  fullname: IEEE L-CSS Special Issue - Composite Adaptive and Learning Control with
-    Robotic Applications
-  year: 2023
-  id: lcsscalc2023
-  link: http://ieee-cssletters.dei.unipd.it/pdf/CSS_Special_Issue-CFP_CALC.pdf
-  deadline: '2023-08-31 23:59:59'
-  timezone: UTC
-  date: 31 August 2023
-  place: N/A
-  sub: CTRL
-
 - title: ICRA
   fullname: IEEE Conference on Robotics and Automation
   year: 2024
@@ -34,6 +22,17 @@
   place: Toronto, ON, Canada
   sub: CTRL
 
+- title: SysID
+  fullname: 20th IFAC Symposium on System Identification
+  year: 2024
+  id: sysid24
+  link: https://www.sysid2024.org
+  deadline: '2023-11-20 23:59:59'
+  timezone: UTC
+  date: 17-19 July 2024
+  place: Boston, MA, USA
+  sub: ML, CTRL
+
 - title: L4DC
   fullname: 6th Annual Learning for Dynamics & Control Conference
   year: 2024
@@ -44,6 +43,17 @@
   date: 15-17 July 2024
   place: Oxford, UK
   sub: ML, CTRL
+
+- title: CCTA
+  fullname: 8th IEEE Conference on Control Technology and Applications
+  year: 2024
+  id: ccta24
+  link: https://ccta2024.ieeecss.org
+  deadline: '2024-02-05 23:59:59'
+  timezone: UTC
+  date: 21-23 August 2024
+  place: Newcastle upon Tyne, UK
+  sub: CTRL
 
 - title: SysDO
   fullname: Symposium on Systems Theory in Data and Optimization
@@ -441,3 +451,15 @@
   date: 26-29 September 2023
   place: N/A
   sub: ML, CTRL
+
+- title: LCSS - SI - CALC
+  fullname: IEEE L-CSS Special Issue - Composite Adaptive and Learning Control with
+    Robotic Applications
+  year: 2023
+  id: lcsscalc23
+  link: http://ieee-cssletters.dei.unipd.it/pdf/CSS_Special_Issue-CFP_CALC.pdf
+  deadline: '2023-08-31 23:59:59'
+  timezone: UTC
+  date: 31 August 2023
+  place: N/A
+  sub: CTRL
