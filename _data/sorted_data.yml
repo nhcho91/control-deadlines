@@ -11,6 +11,18 @@
   place: Yokohama, Japan
   sub: ROB
 
+- title: LCSS - SI - CALC
+  fullname: IEEE L-CSS Special Issue - Composite Adaptive and Learning Control with
+    Robotic Applications
+  year: 2023
+  id: lcsscalc23
+  link: http://ieee-cssletters.dei.unipd.it/pdf/CSS_Special_Issue-CFP_CALC.pdf
+  deadline: '2023-09-21 23:59:59'
+  timezone: UTC
+  date: 21 September 2023
+  place: N/A
+  sub: CTRL
+
 - title: ACC
   fullname: American Control Conference
   year: 2024
@@ -451,15 +463,3 @@
   date: 26-29 September 2023
   place: N/A
   sub: ML, CTRL
-
-- title: LCSS - SI - CALC
-  fullname: IEEE L-CSS Special Issue - Composite Adaptive and Learning Control with
-    Robotic Applications
-  year: 2023
-  id: lcsscalc23
-  link: http://ieee-cssletters.dei.unipd.it/pdf/CSS_Special_Issue-CFP_CALC.pdf
-  deadline: '2023-08-31 23:59:59'
-  timezone: UTC
-  date: 31 August 2023
-  place: N/A
-  sub: CTRL
