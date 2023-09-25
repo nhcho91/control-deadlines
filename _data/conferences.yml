@@ -1,38 +1,26 @@
 ---
 
-- title: ICRA
-  fullname: IEEE Conference on Robotics and Automation
-  year: 2024
-  id: icra24
-  link: http://ieee-icra.org
-  deadline: '2023-09-15 23:59:59'
-  timezone: UTC
-  date: 13-17 May 2024
-  place: Yokohama, Japan
-  sub: ROB
-
-- title: LCSS - SI - CALC
-  fullname: IEEE L-CSS Special Issue - Composite Adaptive and Learning Control with
-    Robotic Applications
-  year: 2023
-  id: lcsscalc23
-  link: http://ieee-cssletters.dei.unipd.it/pdf/CSS_Special_Issue-CFP_CALC.pdf
-  deadline: '2023-09-21 23:59:59'
-  timezone: UTC
-  date: 21 September 2023
-  place: N/A
-  sub: CTRL
-
 - title: ACC
   fullname: American Control Conference
   year: 2024
   id: acc24
   link: https://acc2024.a2c2.org
-  deadline: '2023-09-22 23:59:59'
+  deadline: '2023-09-29 23:59:59'
   timezone: UTC-6
   date: 8-12 July 2024
   place: Toronto, ON, Canada
   sub: CTRL
+
+- title: EuroGNC
+  fullname: CEAS Conference on Guidance, Navigation and Control
+  year: 2024
+  id: egnc24
+  link: https://eurognc.ceas.org
+  deadline: '2023-11-08 23:59:59'
+  timezone: UTC
+  date: 12-14 June 2022
+  place: Bristol, United Kingdom
+  sub: AA, CTRL
 
 - title: SysID
   fullname: 20th IFAC Symposium on System Identification
@@ -463,3 +451,26 @@
   date: 26-29 September 2023
   place: N/A
   sub: ML, CTRL
+
+- title: ICRA
+  fullname: IEEE Conference on Robotics and Automation
+  year: 2024
+  id: icra24
+  link: http://ieee-icra.org
+  deadline: '2023-09-15 23:59:59'
+  timezone: UTC
+  date: 13-17 May 2024
+  place: Yokohama, Japan
+  sub: ROB
+
+- title: LCSS - SI - CALC
+  fullname: IEEE L-CSS Special Issue - Composite Adaptive and Learning Control with
+    Robotic Applications
+  year: 2023
+  id: lcsscalc23
+  link: http://ieee-cssletters.dei.unipd.it/pdf/CSS_Special_Issue-CFP_CALC.pdf
+  deadline: '2023-09-21 23:59:59'
+  timezone: UTC
+  date: 21 September 2023
+  place: N/A
+  sub: CTRL
