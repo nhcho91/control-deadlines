@@ -1,49 +1,5 @@
 ---
 
-- title: ACC
-  fullname: American Control Conference
-  year: 2024
-  id: acc24
-  link: https://acc2024.a2c2.org
-  deadline: '2023-09-29 23:59:59'
-  timezone: UTC-6
-  date: 8-12 July 2024
-  place: Toronto, ON, Canada
-  sub: CTRL
-
-- title: EuroGNC
-  fullname: CEAS Conference on Guidance, Navigation and Control
-  year: 2024
-  id: egnc24
-  link: https://eurognc.ceas.org
-  deadline: '2023-11-08 23:59:59'
-  timezone: UTC
-  date: 12-14 June 2022
-  place: Bristol, United Kingdom
-  sub: AA, CTRL
-
-- title: SysID
-  fullname: 20th IFAC Symposium on System Identification
-  year: 2024
-  id: sysid24
-  link: https://www.sysid2024.org
-  deadline: '2023-11-20 23:59:59'
-  timezone: UTC
-  date: 17-19 July 2024
-  place: Boston, MA, USA
-  sub: ML, CTRL
-
-- title: L4DC
-  fullname: 6th Annual Learning for Dynamics & Control Conference
-  year: 2024
-  id: l4dc24
-  link: https://l4dc.web.ox.ac.uk
-  deadline: '2023-12-01 00:00:00'
-  timezone: UTC
-  date: 15-17 July 2024
-  place: Oxford, UK
-  sub: ML, CTRL
-
 - title: CCTA
   fullname: 8th IEEE Conference on Control Technology and Applications
   year: 2024
@@ -55,12 +11,34 @@
   place: Newcastle upon Tyne, UK
   sub: CTRL
 
+- title: AIM
+  fullname: IEEE/ASME International Conference on Advanced Intelligent Mechatronics
+  year: 2024
+  id: aim24
+  link: https://aim2024.org/
+  deadline: '2024-02-08 23:59:59'
+  timezone: UTC-5
+  date: 15-18 July 2024
+  place: Boston, MA, USA
+  sub: CTRL, ROB
+
+- title: CDC
+  fullname: Conference on Decision and Control
+  year: 2024
+  id: cdc24
+  link: https://cdc2024.ieeecss.org
+  deadline: '2024-03-15 23:59:59'
+  timezone: UTC+1
+  date: 16-19 December 2024
+  place: Milan, Italy
+  sub: CTRL
+
 - title: SysDO
   fullname: Symposium on Systems Theory in Data and Optimization
   year: 2024
   id: sysdo24
   link: https://www.sysdo2024.de
-  deadline: '2024-05-01 23:59:59'
+  deadline: '2024-05-05 23:59:59'
   timezone: UTC+1
   date: 30 September - 2 October 2024
   place: University of Stuttgart, Germany
@@ -474,3 +452,58 @@
   date: 21 September 2023
   place: N/A
   sub: CTRL
+
+- title: ACC
+  fullname: American Control Conference
+  year: 2024
+  id: acc24
+  link: https://acc2024.a2c2.org
+  deadline: '2023-09-29 23:59:59'
+  timezone: UTC-6
+  date: 8-12 July 2024
+  place: Toronto, ON, Canada
+  sub: CTRL
+
+- title: ECC
+  fullname: European Control Conference
+  year: 2024
+  id: ecc24
+  link: https://ecc24.euca-ecc.org
+  deadline: '2023-11-06 23:59:59'
+  timezone: UTC
+  date: 25-28 June 2024
+  place: Stockholm, Sweden
+  sub: CTRL
+
+- title: EuroGNC
+  fullname: CEAS Conference on Guidance, Navigation and Control
+  year: 2024
+  id: egnc24
+  link: https://eurognc.ceas.org
+  deadline: '2023-11-08 23:59:59'
+  timezone: UTC
+  date: 12-14 June 2022
+  place: Bristol, United Kingdom
+  sub: AA, CTRL
+
+- title: SysID
+  fullname: 20th IFAC Symposium on System Identification
+  year: 2024
+  id: sysid24
+  link: https://www.sysid2024.org
+  deadline: '2023-11-20 23:59:59'
+  timezone: UTC
+  date: 17-19 July 2024
+  place: Boston, MA, USA
+  sub: ML, CTRL
+
+- title: L4DC
+  fullname: 6th Annual Learning for Dynamics & Control Conference
+  year: 2024
+  id: l4dc24
+  link: https://l4dc.web.ox.ac.uk
+  deadline: '2023-12-11 00:00:00'
+  timezone: UTC
+  date: 15-17 July 2024
+  place: Oxford, UK
+  sub: ML, CTRL
