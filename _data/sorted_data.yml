@@ -1,5 +1,16 @@
 ---
 
+- title: ICML
+  fullname: 41st International Conference on Machine Learning
+  year: 2024
+  id: icml24
+  link: https://icml.cc
+  deadline: '2024-02-01 23:59:59'
+  timezone: UTC
+  date: 21-27 July 2024
+  place: Vienna, Austria
+  sub: ML, CTRL
+
 - title: CCTA
   fullname: 8th IEEE Conference on Control Technology and Applications
   year: 2024
