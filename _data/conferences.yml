@@ -1,5 +1,27 @@
 ---
 
+- title: ACC
+  fullname: 2025 American Control Conference
+  year: 2025
+  id: acc25
+  link: https://acc2025.a2c2.org
+  deadline: '2024-09-13 23:59:59'
+  timezone: UTC
+  date: 8-10 July 2025
+  place: Denver, CO, USA
+  sub: CTRL
+
+- title: RSS
+  fullname: 20th Robotics: Science and Systems
+  year: 2024
+  id: rss24
+  link: https://roboticsconference.org/2024
+  deadline: '2024-02-02 23:59:59'
+  timezone: UTC
+  date: 15-19 July 2024
+  place: Delft, Netherlands
+  sub: ROB, ML
+
 - title: ICML
   fullname: 41st International Conference on Machine Learning
   year: 2024
