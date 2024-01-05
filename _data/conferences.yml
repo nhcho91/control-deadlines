@@ -1,5 +1,27 @@
 ---
 
+- title: ICUAS
+  fullname: 2024 International Conference on Unmanned Aircraft Systems
+  year: 2024
+  id: icuas24
+  link: https://uasconferences.com/2024_icuas/
+  deadline: '2024-02-04 23:59:59'
+  timezone: UTC
+  date: 4-7 June 2024
+  place: Chania, Crete, Greece
+  sub: AA, ROB, CTRL
+
+- title: MED
+  fullname: 32nd Mediterranean Conference on Control and Automation
+  year: 2024
+  id: med24
+  link: https://www.med-control.org/med2024/
+  deadline: '2024-02-01 23:59:59'
+  timezone: UTC
+  date: 11-14 June 2024
+  place: Chania, Crete, Greece
+  sub: CTRL, ROB
+
 - title: ACC
   fullname: 2025 American Control Conference
   year: 2025
