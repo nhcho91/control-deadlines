@@ -1,16 +1,5 @@
 ---
 
-- title: ICUAS
-  fullname: 2024 International Conference on Unmanned Aircraft Systems
-  year: 2024
-  id: icuas24
-  link: https://uasconferences.com/2024_icuas/
-  deadline: '2024-02-04 23:59:59'
-  timezone: UTC
-  date: 4-7 June 2024
-  place: Chania, Crete, Greece
-  sub: AA, ROB, CTRL
-
 - title: MED
   fullname: 32nd Mediterranean Conference on Control and Automation
   year: 2024
@@ -22,28 +11,6 @@
   place: Chania, Crete, Greece
   sub: CTRL, ROB
 
-- title: ACC
-  fullname: 2025 American Control Conference
-  year: 2025
-  id: acc25
-  link: https://acc2025.a2c2.org
-  deadline: '2024-09-13 23:59:59'
-  timezone: UTC
-  date: 8-10 July 2025
-  place: Denver, CO, USA
-  sub: CTRL
-
-- title: RSS
-  fullname: 20th Robotics: Science and Systems
-  year: 2024
-  id: rss24
-  link: https://roboticsconference.org/2024
-  deadline: '2024-02-02 23:59:59'
-  timezone: UTC
-  date: 15-19 July 2024
-  place: Delft, Netherlands
-  sub: ROB, ML
-
 - title: ICML
   fullname: 41st International Conference on Machine Learning
   year: 2024
@@ -54,6 +21,28 @@
   date: 21-27 July 2024
   place: Vienna, Austria
   sub: ML, CTRL
+
+- title: RSS
+  fullname: 20th Robotics Science and Systems
+  year: 2024
+  id: rss24
+  link: https://roboticsconference.org/2024
+  deadline: '2024-02-02 23:59:59'
+  timezone: UTC
+  date: 15-19 July 2024
+  place: Delft, Netherlands
+  sub: ROB, ML
+
+- title: ICUAS
+  fullname: 2024 International Conference on Unmanned Aircraft Systems
+  year: 2024
+  id: icuas24
+  link: https://uasconferences.com/2024_icuas/
+  deadline: '2024-02-04 23:59:59'
+  timezone: UTC
+  date: 4-7 June 2024
+  place: Chania, Crete, Greece
+  sub: AA, ROB, CTRL
 
 - title: CCTA
   fullname: 8th IEEE Conference on Control Technology and Applications
@@ -98,6 +87,17 @@
   date: 30 September - 2 October 2024
   place: University of Stuttgart, Germany
   sub: ML, CTRL
+
+- title: ACC
+  fullname: 2025 American Control Conference
+  year: 2025
+  id: acc25
+  link: https://acc2025.a2c2.org
+  deadline: '2024-09-13 23:59:59'
+  timezone: UTC
+  date: 8-10 July 2025
+  place: Denver, CO, USA
+  sub: CTRL
 
 - title: ICLR
   fullname: International Conference on Learning Representations
