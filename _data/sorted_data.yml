@@ -5,66 +5,22 @@
   year: 2024
   id: med24
   link: https://www.med-control.org/med2024/
-  deadline: '2024-02-01 23:59:59'
+  deadline: '2024-02-20 23:59:59'
   timezone: UTC
   date: 11-14 June 2024
   place: Chania, Crete, Greece
   sub: CTRL, ROB
 
-- title: ICML
-  fullname: 41st International Conference on Machine Learning
+- title: OLC
+  fullname: Princeton Workshop on Optimization, Learning, and Control
   year: 2024
-  id: icml24
-  link: https://icml.cc
-  deadline: '2024-02-01 23:59:59'
-  timezone: UTC
-  date: 21-27 July 2024
-  place: Vienna, Austria
-  sub: ML, CTRL
-
-- title: RSS
-  fullname: 20th Robotics Science and Systems
-  year: 2024
-  id: rss24
-  link: https://roboticsconference.org/2024
-  deadline: '2024-02-02 23:59:59'
-  timezone: UTC
-  date: 15-19 July 2024
-  place: Delft, Netherlands
-  sub: ROB, ML
-
-- title: ICUAS
-  fullname: 2024 International Conference on Unmanned Aircraft Systems
-  year: 2024
-  id: icuas24
-  link: https://uasconferences.com/2024_icuas/
-  deadline: '2024-02-04 23:59:59'
-  timezone: UTC
-  date: 4-7 June 2024
-  place: Chania, Crete, Greece
-  sub: AA, ROB, CTRL
-
-- title: CCTA
-  fullname: 8th IEEE Conference on Control Technology and Applications
-  year: 2024
-  id: ccta24
-  link: https://ccta2024.ieeecss.org
-  deadline: '2024-02-05 23:59:59'
-  timezone: UTC
-  date: 21-23 August 2024
-  place: Newcastle upon Tyne, UK
-  sub: CTRL
-
-- title: AIM
-  fullname: IEEE/ASME International Conference on Advanced Intelligent Mechatronics
-  year: 2024
-  id: aim24
-  link: https://aim2024.org/
-  deadline: '2024-02-08 23:59:59'
+  id: olc24
+  link: https://olc.orfe.princeton.edu
+  deadline: '2024-03-03 23:59:59'
   timezone: UTC-5
-  date: 15-18 July 2024
-  place: Boston, MA, USA
-  sub: CTRL, ROB
+  date: 27-28 June 2024
+  place: Princeton, NJ, USA
+  sub: ML, CTRL
 
 - title: CDC
   fullname: Conference on Decision and Control
@@ -87,6 +43,17 @@
   date: 30 September - 2 October 2024
   place: University of Stuttgart, Germany
   sub: ML, CTRL
+
+- title: SPAICE
+  fullname: 1st SPAICE Conference
+  year: 2024
+  id: spaice24
+  link: https://spaice.esa.int
+  deadline: '2024-05-19 23:59:59'
+  timezone: UTC
+  date: 17-19 September 2024
+  place: ECSAT, Harwell, UK
+  sub: AA, ML
 
 - title: ACC
   fullname: 2025 American Control Conference
@@ -562,3 +529,58 @@
   date: 15-17 July 2024
   place: Oxford, UK
   sub: ML, CTRL
+
+- title: ICML
+  fullname: 41st International Conference on Machine Learning
+  year: 2024
+  id: icml24
+  link: https://icml.cc
+  deadline: '2024-02-01 23:59:59'
+  timezone: UTC
+  date: 21-27 July 2024
+  place: Vienna, Austria
+  sub: ML, CTRL
+
+- title: RSS
+  fullname: 20th Robotics Science and Systems
+  year: 2024
+  id: rss24
+  link: https://roboticsconference.org/2024
+  deadline: '2024-02-02 23:59:59'
+  timezone: UTC
+  date: 15-19 July 2024
+  place: Delft, Netherlands
+  sub: ROB, ML
+
+- title: ICUAS
+  fullname: 2024 International Conference on Unmanned Aircraft Systems
+  year: 2024
+  id: icuas24
+  link: https://uasconferences.com/2024_icuas/
+  deadline: '2024-02-04 23:59:59'
+  timezone: UTC
+  date: 4-7 June 2024
+  place: Chania, Crete, Greece
+  sub: AA, ROB, CTRL
+
+- title: CCTA
+  fullname: 8th IEEE Conference on Control Technology and Applications
+  year: 2024
+  id: ccta24
+  link: https://ccta2024.ieeecss.org
+  deadline: '2024-02-05 23:59:59'
+  timezone: UTC
+  date: 21-23 August 2024
+  place: Newcastle upon Tyne, UK
+  sub: CTRL
+
+- title: AIM
+  fullname: IEEE/ASME International Conference on Advanced Intelligent Mechatronics
+  year: 2024
+  id: aim24
+  link: https://aim2024.org/
+  deadline: '2024-02-08 23:59:59'
+  timezone: UTC-5
+  date: 15-18 July 2024
+  place: Boston, MA, USA
+  sub: CTRL, ROB
