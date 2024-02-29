@@ -1,16 +1,5 @@
 ---
 
-- title: MED
-  fullname: 32nd Mediterranean Conference on Control and Automation
-  year: 2024
-  id: med24
-  link: https://www.med-control.org/med2024/
-  deadline: '2024-02-20 23:59:59'
-  timezone: UTC
-  date: 11-14 June 2024
-  place: Chania, Crete, Greece
-  sub: CTRL, ROB
-
 - title: OLC
   fullname: Princeton Workshop on Optimization, Learning, and Control
   year: 2024
@@ -27,7 +16,7 @@
   year: 2024
   id: cdc24
   link: https://cdc2024.ieeecss.org
-  deadline: '2024-03-15 23:59:59'
+  deadline: '2024-03-22 23:59:59'
   timezone: UTC+1
   date: 16-19 December 2024
   place: Milan, Italy
@@ -583,4 +572,15 @@
   timezone: UTC-5
   date: 15-18 July 2024
   place: Boston, MA, USA
+  sub: CTRL, ROB
+
+- title: MED
+  fullname: 32nd Mediterranean Conference on Control and Automation
+  year: 2024
+  id: med24
+  link: https://www.med-control.org/med2024/
+  deadline: '2024-02-20 23:59:59'
+  timezone: UTC
+  date: 11-14 June 2024
+  place: Chania, Crete, Greece
   sub: CTRL, ROB
