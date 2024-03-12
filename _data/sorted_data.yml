@@ -1,16 +1,5 @@
 ---
 
-- title: OLC
-  fullname: Princeton Workshop on Optimization, Learning, and Control
-  year: 2024
-  id: olc24
-  link: https://olc.orfe.princeton.edu
-  deadline: '2024-03-03 23:59:59'
-  timezone: UTC-5
-  date: 27-28 June 2024
-  place: Princeton, NJ, USA
-  sub: ML, CTRL
-
 - title: CDC
   fullname: Conference on Decision and Control
   year: 2024
@@ -43,6 +32,17 @@
   date: 17-19 September 2024
   place: ECSAT, Harwell, UK
   sub: AA, ML
+
+- title: CORL
+  fullname: Conference on Robot Learning
+  year: 2024
+  id: corl24
+  link: https://www.corl.org
+  deadline: '2024-06-06 23:59:59'
+  timezone: UTC
+  date: 6-9 November 2024
+  place: Munich, Germany
+  sub: ROB, ML
 
 - title: ACC
   fullname: 2025 American Control Conference
@@ -584,3 +584,14 @@
   date: 11-14 June 2024
   place: Chania, Crete, Greece
   sub: CTRL, ROB
+
+- title: OLC
+  fullname: Princeton Workshop on Optimization, Learning, and Control
+  year: 2024
+  id: olc24
+  link: https://olc.orfe.princeton.edu
+  deadline: '2024-03-03 23:59:59'
+  timezone: UTC-5
+  date: 27-28 June 2024
+  place: Princeton, NJ, USA
+  sub: ML, CTRL
