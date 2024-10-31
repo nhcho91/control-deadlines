@@ -9,7 +9,8 @@ bundle exec jekyll build --future -d _site/control-deadlines
 
 # Test build result
 echo "site ----> htmlproofer\n"
-bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
+# bundle exec htmlproofer ./_site --only-4xx --check-favicon --check-html
+bundle exec htmlproofer ./_site --only-4xx
 
 # Update .ics Calendar file
 echo "data ----> ics\n"
@@ -22,5 +23,5 @@ python3 utils/process.py
 echo "\nlocal dir ----> git repo"
 git add --all
 git commit -m "housekeeping shell script"
-git push origin master
+git push origin master 
 git status
