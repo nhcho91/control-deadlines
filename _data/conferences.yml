@@ -22,6 +22,28 @@
   place: San Diego, CA, USA
   sub: CTRL, ROB
 
+  - title: CDC
+  fullname: 64th IEEE Conference on Decision and Control
+  year: 2025
+  id: cdc25
+  link: https://cdc2025.ieeecss.org
+  deadline: '2025-03-31 23:59:59'
+  timezone: UTC-5
+  date: 9-12 December 2025
+  place: Rio de Janeiro, Brazil
+  sub: CTRL
+
+  - title: CORL
+  fullname: Conference on Robot Learning
+  year: 2025
+  id: corl25
+  link: https://www.corl.org
+  deadline: '2025-06-01 23:59:59'
+  timezone: UTC+8
+  date: 27-30 September 2025
+  place: Seoul, South Korea
+  sub: ML, ROB
+
 - title: ICLR
   fullname: International Conference on Learning Representations
   year: 2022
