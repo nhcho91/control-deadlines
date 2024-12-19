@@ -1,16 +1,5 @@
 ---
 
-- title: L4DC
-  fullname: 7th Annual Learning for Dynamics & Control Conference
-  year: 2025
-  id: l4dc25
-  link: https://sites.google.com/umich.edu/l4dc2025/home
-  deadline: '2024-11-22 23:59:59'
-  timezone: UTC-5
-  date: 4-6 June 2025
-  place: University of Michigan, Ann Arbor
-  sub: ML, CTRL
-
 - title: CCTA
   fullname: 9th IEEE Conference on Control Technology and Applications
   year: 2025
@@ -21,6 +10,28 @@
   date: 25-27 August 2025
   place: San Diego, CA, USA
   sub: CTRL, ROB
+
+- title: CDC
+  fullname: 64th IEEE Conference on Decision and Control
+  year: 2025
+  id: cdc25
+  link: https://cdc2025.ieeecss.org
+  deadline: '2025-03-31 23:59:59'
+  timezone: UTC-5
+  date: 9-12 December 2025
+  place: Rio de Janeiro, Brazil
+  sub: CTRL
+
+- title: CORL
+  fullname: Conference on Robot Learning
+  year: 2025
+  id: corl25
+  link: https://www.corl.org
+  deadline: '2025-06-01 23:59:59'
+  timezone: UTC+8
+  date: 27-30 September 2025
+  place: Seoul, South Korea
+  sub: ML, ROB
 
 - title: ICLR
   fullname: International Conference on Learning Representations
@@ -617,3 +628,14 @@
   date: 8-10 July 2025
   place: Denver, CO, USA
   sub: CTRL
+
+- title: L4DC
+  fullname: 7th Annual Learning for Dynamics & Control Conference
+  year: 2025
+  id: l4dc25
+  link: https://sites.google.com/umich.edu/l4dc2025/home
+  deadline: '2024-11-22 23:59:59'
+  timezone: UTC-5
+  date: 4-6 June 2025
+  place: University of Michigan, Ann Arbor
+  sub: ML, CTRL
