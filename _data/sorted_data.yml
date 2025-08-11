@@ -55,6 +55,17 @@
   place: "Reykjav\xEDk, Iceland"
   sub: CTRL
 
+- title: L4DC
+  fullname: 8th Annual Learning for Dynamics & Control Conference
+  year: 2026
+  id: l4dc26
+  link: https://
+  deadline: '2025-11-08 23:59:59'
+  timezone: UTC-8
+  date: 17-19 June 2026
+  place: Los Angeles, CA, USA
+  sub: CTRL, ML
+
 - title: IFACWC
   fullname: IFAC World Congress
   year: 2026
@@ -65,17 +76,6 @@
   date: 23-28 August 2026
   place: Busan, Korea
   sub: CTRL
-
-- title: L4DC
-  fullname: 8th Annual Learning for Dynamics & Control Conference
-  year: 2026
-  id: l4dc26
-  link: https://
-  deadline: '2025-12-01 23:59:59'
-  timezone: UTC-8
-  date: 17-19 June 2026
-  place: Los Angeles, CA, USA
-  sub: CTRL, ML
 
 - title: ICLR
   fullname: International Conference on Learning Representations
