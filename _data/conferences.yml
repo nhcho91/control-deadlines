@@ -1,82 +1,5 @@
 ---
 
-- title: RiTA
-  fullname: 13th International Conference on Robot Intelligence Technology and Applications
-  year: 2025
-  id: rita25
-  link: https://icrita.org
-  deadline: '2025-08-31 23:59:59'
-  timezone: UTC
-  date: 17-19 December 2025
-  place: London, UK
-  sub: ROB, CTRL
-
-- title: ICRA
-  fullname: IEEE International Conference on Robotics & Automation
-  year: 2026
-  id: icra26
-  link: https://2026.ieee-icra.org
-  deadline: '2025-09-15 23:59:59'
-  timezone: UTC+1
-  date: 1-5 June 2026
-  place: Vienna, Austria
-  sub: ROB, ML, CTRL
-
-- title: ACC
-  fullname: American Control Conference
-  year: 2026
-  id: acc26
-  link: https://acc2026.a2c2.org
-  deadline: '2025-09-26 23:59:59'
-  timezone: UTC-5
-  date: 26-29 May 2026
-  place: New Orleans, LA, USA
-  sub: CTRL
-
-- title: EuroGNC
-  fullname: CEAS EuroGNC 2026
-  year: 2026
-  id: eurognc26
-  link: https://eurognc.ceas.org/
-  deadline: '2025-09-30 23:59:59'
-  timezone: UTC
-  date: 5-7 May 2026
-  place: Madrid, Spain
-  sub: AA, CTRL
-
-- title: ECC
-  fullname: 24th European Control Conference
-  year: 2026
-  id: ecc26
-  link: https://ecc26.euca-ecc.org
-  deadline: '2025-10-31 23:59:59'
-  timezone: UTC
-  date: 7-10 July 2026
-  place: "Reykjav\xEDk, Iceland"
-  sub: CTRL
-
-- title: L4DC
-  fullname: 8th Annual Learning for Dynamics & Control Conference
-  year: 2026
-  id: l4dc26
-  link: https://
-  deadline: '2025-11-08 23:59:59'
-  timezone: UTC-8
-  date: 17-19 June 2026
-  place: Los Angeles, CA, USA
-  sub: CTRL, ML
-
-- title: IFACWC
-  fullname: IFAC World Congress
-  year: 2026
-  id: ifacwc26
-  link: https://www.ifac2026.org
-  deadline: '2025-11-26 23:59:59'
-  timezone: UTC+8
-  date: 23-28 August 2026
-  place: Busan, Korea
-  sub: CTRL
-
 - title: ICLR
   fullname: International Conference on Learning Representations
   year: 2022
@@ -716,3 +639,80 @@
   date: 27-30 September 2025
   place: Seoul, South Korea
   sub: ML, ROB
+
+- title: RiTA
+  fullname: 13th International Conference on Robot Intelligence Technology and Applications
+  year: 2025
+  id: rita25
+  link: https://icrita.org
+  deadline: '2025-08-31 23:59:59'
+  timezone: UTC
+  date: 17-19 December 2025
+  place: London, UK
+  sub: ROB, CTRL
+
+- title: ICRA
+  fullname: IEEE International Conference on Robotics & Automation
+  year: 2026
+  id: icra26
+  link: https://2026.ieee-icra.org
+  deadline: '2025-09-15 23:59:59'
+  timezone: UTC+1
+  date: 1-5 June 2026
+  place: Vienna, Austria
+  sub: ROB, ML, CTRL
+
+- title: ACC
+  fullname: American Control Conference
+  year: 2026
+  id: acc26
+  link: https://acc2026.a2c2.org
+  deadline: '2025-09-26 23:59:59'
+  timezone: UTC-5
+  date: 26-29 May 2026
+  place: New Orleans, LA, USA
+  sub: CTRL
+
+- title: EuroGNC
+  fullname: CEAS EuroGNC 2026
+  year: 2026
+  id: eurognc26
+  link: https://eurognc.ceas.org/
+  deadline: '2025-09-30 23:59:59'
+  timezone: UTC
+  date: 5-7 May 2026
+  place: Madrid, Spain
+  sub: AA, CTRL
+
+- title: ECC
+  fullname: 24th European Control Conference
+  year: 2026
+  id: ecc26
+  link: https://ecc26.euca-ecc.org
+  deadline: '2025-10-31 23:59:59'
+  timezone: UTC
+  date: 7-10 July 2026
+  place: "Reykjav\xEDk, Iceland"
+  sub: CTRL
+
+- title: L4DC
+  fullname: 8th Annual Learning for Dynamics & Control Conference
+  year: 2026
+  id: l4dc26
+  link: https://
+  deadline: '2025-11-08 23:59:59'
+  timezone: UTC-8
+  date: 17-19 June 2026
+  place: Los Angeles, CA, USA
+  sub: CTRL, ML
+
+- title: IFACWC
+  fullname: IFAC World Congress
+  year: 2026
+  id: ifacwc26
+  link: https://www.ifac2026.org
+  deadline: '2025-11-26 23:59:59'
+  timezone: UTC+8
+  date: 23-28 August 2026
+  place: Busan, Korea
+  sub: CTRL
