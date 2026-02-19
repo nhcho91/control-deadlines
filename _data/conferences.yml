@@ -1,5 +1,49 @@
 ---
 
+- title: CDC
+  fullname: IEEE Conference on Decision and Control
+  year: 2026
+  id: cdc26
+  link: https://cdc2026.ieeecss.org
+  deadline: '2026-03-31 23:59:59'
+  timezone: UTC-10
+  date: 15-18 December 2026
+  place: Honolulu, HI, USA
+  sub: CTRL
+
+- title: SciTech
+  fullname: AIAA Science and Technology Forum and Exposition
+  year: 2027
+  id: scitech27
+  link: https://www.aiaa.org/SciTech
+  deadline: '2026-05-21 20:00:00'
+  timezone: UTC-5
+  date: 11-15 January 2027
+  place: Orlando, FL, USA
+  sub: AA
+
+- title: ICRA
+  fullname: IEEE International Conference on Robotics and Automation
+  year: 2027
+  id: icra27
+  link: https://2027.ieee-icra.org
+  deadline: '2026-09-15 23:59:59'
+  timezone: UTC+9
+  date: 24-28 May 2027
+  place: Seoul, South Korea
+  sub: ROB
+
+- title: ACC
+  fullname: American Control Conference
+  year: 2027
+  id: acc27
+  link: https://acc2027.a2c2.org
+  deadline: '2026-09-25 23:59:59'
+  timezone: UTC-5
+  date: 7-9 July 2027
+  place: Philadelphia, PA, USA
+  sub: CTRL
+
 - title: ICLR
   fullname: International Conference on Learning Representations
   year: 2022
