@@ -22,6 +22,17 @@
   place: Orlando, FL, USA
   sub: AA
 
+- title: CORL
+  fullname: Conference on Robot Learning
+  year: 2026
+  id: corl26
+  link: https://www.corl.org
+  deadline: '2026-05-28 23:59:59'
+  timezone: UTC-12
+  date: 10-12 November 2026
+  place: Austin, TX, USA
+  sub: ROB, ML
+
 - title: ICRA
   fullname: IEEE International Conference on Robotics and Automation
   year: 2027
