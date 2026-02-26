@@ -11,6 +11,17 @@
   place: Honolulu, HI, USA
   sub: CTRL
 
+- title: NeurIPS
+  fullname: Conference on Neural Information Processing Systems
+  year: 2026
+  id: neurips26
+  link: https://neurips.cc/Conferences/2026
+  deadline: '2026-05-11 23:59:59'
+  timezone: UTC-12
+  date: 6-12 December 2026
+  place: Sydney, Australia
+  sub: ML
+
 - title: SciTech
   fullname: AIAA Science and Technology Forum and Exposition
   year: 2027
@@ -53,6 +64,17 @@
   timezone: UTC-5
   date: 7-9 July 2027
   place: Philadelphia, PA, USA
+  sub: CTRL
+
+- title: ECC
+  fullname: European Control Conference
+  year: 2027
+  id: ecc27
+  link: https://ecc27.euca-ecc.org
+  deadline: '2026-10-31 23:59:59'
+  timezone: UTC
+  date: 13-16 July 2027
+  place: Brussels, Belgium
   sub: CTRL
 
 - title: ICLR
