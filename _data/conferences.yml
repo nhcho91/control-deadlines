@@ -1,60 +1,5 @@
 ---
 
-- title: CDC
-  fullname: IEEE Conference on Decision and Control
-  year: 2026
-  id: cdc26
-  link: https://cdc2026.ieeecss.org
-  deadline: '2026-03-31 23:59:59'
-  timezone: UTC-10
-  date: 15-18 December 2026
-  place: Honolulu, HI, USA
-  sub: CTRL
-
-- title: NeurIPS
-  fullname: Conference on Neural Information Processing Systems
-  year: 2026
-  id: neurips26
-  link: https://neurips.cc/Conferences/2026
-  deadline: '2026-05-11 23:59:59'
-  timezone: UTC-12
-  date: 6-12 December 2026
-  place: Sydney, Australia
-  sub: ML
-
-- title: SciTech
-  fullname: AIAA Science and Technology Forum and Exposition
-  year: 2027
-  id: scitech27
-  link: https://www.aiaa.org/SciTech
-  deadline: '2026-05-21 20:00:00'
-  timezone: UTC-5
-  date: 11-15 January 2027
-  place: Orlando, FL, USA
-  sub: AA
-
-- title: CORL
-  fullname: Conference on Robot Learning
-  year: 2026
-  id: corl26
-  link: https://www.corl.org
-  deadline: '2026-05-28 23:59:59'
-  timezone: UTC-12
-  date: 10-12 November 2026
-  place: Austin, TX, USA
-  sub: ROB, ML
-
-- title: ICRA
-  fullname: IEEE International Conference on Robotics and Automation
-  year: 2027
-  id: icra27
-  link: https://2027.ieee-icra.org
-  deadline: '2026-09-15 23:59:59'
-  timezone: UTC+9
-  date: 24-28 May 2027
-  place: Seoul, South Korea
-  sub: ROB
-
 - title: ACC
   fullname: American Control Conference
   year: 2027
@@ -67,7 +12,7 @@
   sub: CTRL
 
 - title: ECC
-  fullname: European Control Conference
+  fullname: 25th European Control Conference
   year: 2027
   id: ecc27
   link: https://ecc27.euca-ecc.org
@@ -81,12 +26,23 @@
   fullname: 9th Annual Learning for Dynamics & Control Conference
   year: 2027
   id: l4dc27
-  link: https://
-  deadline: '2026-11-20 23:59:59'
-  timezone: UTC-8
-  date: June 2027
-  place: TBD
+  link: https://l4dc2027.control.ee.ethz.ch
+  deadline: '2026-11-13 23:59:59'
+  timezone: UTC+1
+  date: 16-18 June 2027
+  place: Stockholm, Sweden
   sub: ML, CTRL
+
+- title: CCTA
+  fullname: 11th IEEE Conference on Control Technology and Applications
+  year: 2027
+  id: ccta27
+  link: https://ccta2027.ieeecss.org
+  deadline: '2027-02-07 23:59:59'
+  timezone: UTC+9
+  date: 23-25 August 2027
+  place: Hiroshima, Japan
+  sub: CTRL, ROB
 
 - title: ICLR
   fullname: International Conference on Learning Representations
@@ -804,3 +760,58 @@
   date: 23-28 August 2026
   place: Busan, Korea
   sub: CTRL
+
+- title: CDC
+  fullname: IEEE Conference on Decision and Control
+  year: 2026
+  id: cdc26
+  link: https://cdc2026.ieeecss.org
+  deadline: '2026-03-31 23:59:59'
+  timezone: UTC-10
+  date: 15-18 December 2026
+  place: Honolulu, HI, USA
+  sub: CTRL
+
+- title: NeurIPS
+  fullname: Conference on Neural Information Processing Systems
+  year: 2026
+  id: neurips26
+  link: https://neurips.cc/Conferences/2026
+  deadline: '2026-05-11 23:59:59'
+  timezone: UTC-12
+  date: 6-12 December 2026
+  place: Sydney, Australia
+  sub: ML
+
+- title: SciTech
+  fullname: AIAA Science and Technology Forum and Exposition
+  year: 2027
+  id: scitech27
+  link: https://www.aiaa.org/SciTech
+  deadline: '2026-05-21 20:00:00'
+  timezone: UTC-5
+  date: 11-15 January 2027
+  place: Orlando, FL, USA
+  sub: AA
+
+- title: CORL
+  fullname: Conference on Robot Learning
+  year: 2026
+  id: corl26
+  link: https://www.corl.org
+  deadline: '2026-05-28 23:59:59'
+  timezone: UTC-12
+  date: 10-12 November 2026
+  place: Austin, TX, USA
+  sub: ROB, ML
+
+- title: ICRA
+  fullname: IEEE International Conference on Robotics and Automation
+  year: 2027
+  id: icra27
+  link: https://2027.ieee-icra.org
+  deadline: '2026-09-15 23:59:59'
+  timezone: UTC+9
+  date: 24-28 May 2027
+  place: Seoul, South Korea
+  sub: ROB
