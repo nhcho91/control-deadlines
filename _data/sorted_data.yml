@@ -1,16 +1,5 @@
 ---
 
-- title: ACC
-  fullname: American Control Conference
-  year: 2027
-  id: acc27
-  link: https://acc2027.a2c2.org
-  deadline: '2026-09-25 23:59:59'
-  timezone: UTC-5
-  date: 7-9 July 2027
-  place: Philadelphia, PA, USA
-  sub: CTRL
-
 - title: ECC
   fullname: 25th European Control Conference
   year: 2027
@@ -43,3 +32,14 @@
   date: 23-25 August 2027
   place: Hiroshima, Japan
   sub: CTRL, ROB
+
+- title: CDC
+  fullname: 66th IEEE Conference on Decision and Control
+  year: 2027
+  id: cdc27
+  link: https://cdc2027.ieeecss.org
+  deadline: '2027-03-31 23:59:59'
+  timezone: UTC
+  date: 13-17 December 2027
+  place: Lisbon, Portugal
+  sub: CTRL
