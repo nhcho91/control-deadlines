@@ -22,6 +22,18 @@
   place: Stockholm, Sweden
   sub: ML, CTRL
 
+- title: RSS
+  fullname: Robotics Science and Systems
+  year: 2027
+  id: rss27
+  link: https://roboticsconference.org
+  deadline: '2027-04-16 23:59:59'
+  abstract_deadline: '2026-12-04 23:59:59'
+  timezone: UTC-12
+  date: 6-11 July 2027
+  place: Athens, Greece
+  sub: ROB
+
 - title: CCTA
   fullname: 11th IEEE Conference on Control Technology and Applications
   year: 2027
@@ -32,6 +44,17 @@
   date: 23-25 August 2027
   place: Hiroshima, Japan
   sub: CTRL, ROB
+
+- title: IROS
+  fullname: IEEE/RSJ International Conference on Intelligent Robots and Systems
+  year: 2027
+  id: iros27
+  link: https://2027.ieee-iros.org
+  deadline: '2027-03-01 23:59:59'
+  timezone: UTC-12
+  date: 27 September - 1 October 2027
+  place: Florence, Italy
+  sub: ROB
 
 - title: CDC
   fullname: 66th IEEE Conference on Decision and Control
